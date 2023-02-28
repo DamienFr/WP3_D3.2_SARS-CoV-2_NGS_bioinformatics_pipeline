@@ -81,7 +81,7 @@ All sequences are aligned against the Wuhan-Hu-1 reference sequence (EPI_ISL_402
 **Maximum likelihood tree**
 Building a maximum likelihood phylogenetic tree on the masked alignment using the tree builder RaxML (https://cme.h-its.org/exelixis/web/software/raxml/) again implemented via the AUGUR pipeline.
 
-`augur tree --alignment gisaid_hcov-19.practical.mask.aln --method raxml --nthreads auto --output gisaid_hcov-19.practical.mask.raxml.tree`
+`augur tree --alignment hcov-19.practical.mask.aln --method raxml --nthreads auto --output hcov-19.practical.mask.raxml.tree`
 
 
 **########## 4. Phylogenetics reconstruction using R ##########**
@@ -122,7 +122,7 @@ setwd("/home/damien/Downloads/Practical")
 We will then read in the fasta format alignment:
 
 ```{r align}
-sequences <- read.dna('data/gisaid_hcov-19.practical.mask.aln',format='fasta')
+sequences <- read.dna('data/hcov-19.practical.mask.aln',format='fasta')
 ```
 
 Some explanation of the above code: 
@@ -194,14 +194,14 @@ Now the frequency of D614G is essentially fixed. This is likely due to a combina
 # Reading in metadata
 Sequence data is only useful for epidemiological inference if we have **associated metadata on where and when genomes were collected**. Unfortunately we often don't have information on patient status, though this would be useful. 
 
-For SARS-CoV-2 the GISAID repository provides metadata uploaded by laboratories generating data all around the world. There are well over 100 countries now providing data which results in a very comprehensive resource - often we deal with very strong sampling biases in genomic datasets. 
+For SARS-CoV-2 the NCBI repository provides metadata uploaded by laboratories generating data all around the world. There are well over 100 countries now providing data which results in a very comprehensive resource - often we deal with very strong sampling biases in genomic datasets. 
 
 We can read the metadata table into R to see where the samples come from and use this to understand better the emergence and spread of the virus.
 
 A common data format is **t**ab **s**eperated **v**alue (.tsv) format because it can both be opened in Excel but also easily read by different programming languages in R. We can read in tab separated files using the `read.delim()` function in R: 
 
 ```{r read_meta}
-meta <- read.delim("data/gisaid_hcov-19_meta.tsv",header=T,sep='\t',as.is=T)
+meta <- read.delim("data/hcov-19_meta.tsv",header=T,sep='\t',as.is=T)
 ```
 
 Some explanation of the above code: 
@@ -246,7 +246,7 @@ We will next use the Ape package from R to read in a maximum likelihood (ML) phy
 We can do this using the function `read.tree()`:
   
 ```{r read_tree}
-mltree <- read.tree("data/gisaid_hcov-19.practical.mask.raxml.tree")
+mltree <- read.tree("data/hcov-19.practical.mask.raxml.tree")
 ```
   
 This is now stored as a tree object. Lets see what it looks like:
