@@ -282,7 +282,7 @@ tiplabels(pch=20,col=col.vec,frame='none')
 * this is consistent with many introductions of the virus to many geographic regions at multiple times meaning there is no one patient zero.
 * though note this situation changed by the time of the second COVID-19 wave when restrictions on travel supporting the emergence of more local SARS-CoV-2 clusters.
 
-# Dating a phylogenetic tree
+### Dating a phylogenetic tree
 
 Many uncertainties surround the age of SARS-CoV-2. Using genomic datasets we can estimate the **time to the most recent common ancestor (tMRCA)** of the sequences we include in our alignment.
 
