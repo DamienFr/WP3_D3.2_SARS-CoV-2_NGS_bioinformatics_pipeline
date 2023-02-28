@@ -84,8 +84,8 @@ You can read more about potential sequencing errors in SARS-CoV-2 genomes here: 
 
 mask_aln code TODO
 
+**########## 4. Build a Maximum likelihood tree ##########**
 
-**Maximum likelihood tree**
 Building a maximum likelihood phylogenetic tree on the masked alignment using the tree builder RaxML (https://cme.h-its.org/exelixis/web/software/raxml/) again implemented via the AUGUR pipeline.
 
 `augur tree --alignment total_aligned.mask.aln --method raxml --nthreads auto --output raxml.tree`
