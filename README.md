@@ -1,10 +1,11 @@
 
+
 # END-VoC WP3 - D3.2 SARS-CoV-2 NGS Bioinformatics pipeline 
 
 
 
 
-**########## Gather the raw read dataset ########################**
+**########## Gather the raw read dataset ##########**
 
  849 SARS-CoV-2 sequencing projects from 2019/11/01 to 2020/05/12 were downloaded from the NCBI SRA raw read database
 SRA can be searched in various ways, including (i) on a web browser at https://www.ncbi.nlm.nih.gov/sra using a query such as "("2019/11/01"[Publication Date] : "2020/05/12"[Publication Date]) AND txid2697049[Organism:noexp] NOT 00000000000[Mbases]" or using the e-utility dedicated command line tool with commands such as "elink -target sra -db taxonomy -id 2697049 | efetch -mode xml > 00.sra.xml "
@@ -14,7 +15,7 @@ Detailed scripts are not provided here because the reader should have its own da
 
 the list of datasets studied as well as information about the samples is provided in Table_1.
 
-**########## Produce the consensus sequences of each sample ########################**
+**########## Produce the consensus sequences of each sample ##########**
 
 The dataset comprises sequencing data produced with an Illumina amplicon strategy and with a Nanopore amplicon strategy 
 
@@ -55,7 +56,7 @@ bash nextflow run nf-core/viralrecon -r 2.4.1  \
 --max_memory '30.GB' \
 --max_cpus 30
 
-**########## Produce an alignment for subsequent analysis ########################**
+**########## Produce an alignment for subsequent analysis ##########**
 
 Locate your consensus sequences.
 In the above case, consensus sequences of the Illumina data are in 
@@ -75,9 +76,5 @@ all sequences are aligned against the Wuhan-Hu-1 reference sequence (EPI_ISL_402
 The actual alignment is performed using Mafft, embedded into the augur bioinformatic toolkit
 
     augur align --sequences total.aln --reference-name 'EPI_ISL_402125' --fill-gaps --output total_aligned.aln --nthreads 8
-
-
-
-Page generated using https://stackedit.io/app
 
 
