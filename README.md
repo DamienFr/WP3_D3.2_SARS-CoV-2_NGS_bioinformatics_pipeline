@@ -81,9 +81,10 @@ The beginning and ends of alignments can often be noisy. Hence we mask the first
 
 You can read more about potential sequencing errors in SARS-CoV-2 genomes here: https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473 These are important to be aware of as sequencing errors will appear homoplasic so may signpost to selection or recombination artefactually. 
 
-perl -F'\t' -ane 'if( $F[6] eq "mask"){print $F[1] . " "}' /home/damien/Copy/92.NCBI_sars_cov_2/problematic_sites_sarsCov2.vcf > /home/damien/Copy/92.NCBI_sars_cov_2/problematic_sites_sarsCov2_inline.vcf 
-mask=$(cat /home/damien/Copy/92.NCBI_sars_cov_2/problematic_sites_sarsCov2_inline.vcf )
-python3 /home/damien/Copy/Dropbox/xx.scripts/mask-alignment_v2.py --alignment total_aligned.aln --mask-from-beginning 55 --mask-from-end 100 --mask-sites $mask --output total_aligned.mask.aln
+
+    perl -F'\t' -ane 'if( $F[6] eq "mask"){print $F[1] . " "}' /home/damien/Copy/92.NCBI_sars_cov_2/problematic_sites_sarsCov2.vcf > /home/damien/Copy/92.NCBI_sars_cov_2/problematic_sites_sarsCov2_inline.vcf 
+    mask=$(cat /home/damien/Copy/92.NCBI_sars_cov_2/problematic_sites_sarsCov2_inline.vcf )
+    python3 /home/damien/Copy/Dropbox/xx.scripts/mask-alignment_v2.py --alignment total_aligned.aln --mask-from-beginning 55 --mask-from-end 100 --mask-sites $mask --output total_aligned.mask.aln
 
 
 **Maximum likelihood tree**
