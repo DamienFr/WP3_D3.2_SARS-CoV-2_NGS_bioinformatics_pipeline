@@ -1,5 +1,6 @@
 
 
+
 # END-VoC WP3 - D3.2 SARS-CoV-2 NGS Bioinformatics pipeline 
 
 
@@ -7,8 +8,8 @@
 
 **########## 1. Gather the raw read dataset ##########**
 
- 849 SARS-CoV-2 sequencing projects from 2019/11/01 to 2020/05/12 were downloaded from the NCBI SRA raw read database
-SRA can be searched in various ways, including (i) on a web browser at https://www.ncbi.nlm.nih.gov/sra using a query such as "("2019/11/01"[Publication Date] : "2020/05/12"[Publication Date]) AND txid2697049[Organism:noexp] NOT 00000000000[Mbases]" or using the e-utility dedicated command line tool with commands such as "elink -target sra -db taxonomy -id 2697049 | efetch -mode xml > 00.sra.xml "
+ 849 SARS-CoV-2 sequencing projects generated from the 2019/11/01 to the 2020/05/12 were downloaded from the NCBI SRA raw read database.
+SRA can be searched in various ways, including (i) on a web browser at https://www.ncbi.nlm.nih.gov/sra using a query such as "("2019/11/01"[Publication Date] : `2020/05/12"[Publication Date]) AND txid2697049[Organism:noexp] NOT 00000000000[Mbases]` or using the e-utility dedicated command line tool with commands such as `elink -target sra -db taxonomy -id 2697049 | efetch -mode xml > 00.sra.xml`
 
 In the same manner, downloading the actual fastq files of the dataset can be done either manualy or by using appropriate command line tools (Aspera, fasterq-dump ....
 Detailed scripts are not provided here because the reader should have its own dataset to analyse.
@@ -41,20 +42,20 @@ Details about how to specify your input files paths in ILLUMINA_AMPLICON.samples
 **Analysis of the Nanopore based sequencing projects**
 Details about how to organize your input file folder architecture and specify your input files paths in NANOPORE_AMPLICON.samplesheet.cs are provided at https://nf-co.re/viralrecon/2.5/usage
 
-bash nextflow run nf-core/viralrecon -r 2.4.1  \
---input NANOPORE_AMPLICON.samplesheet.csv \
---outdir ./output_NANOPORE_AMPLICON/ \
---platform nanopore \
---genome 'MN908947.3' \
---primer_set_version 1 \
---fastq_dir ./OXFORD_NANOPORE_AMPLICON/ \
---artic_minion_caller medaka \
---artic_minion_medaka_model r941_min_high_g360 \
---artic_minion_aligner minimap2 \
--profile singularity \
---skip_nanoplot \
---max_memory '30.GB' \
---max_cpus 30
+    bash nextflow run nf-core/viralrecon -r 2.4.1  \
+    --input NANOPORE_AMPLICON.samplesheet.csv \
+    --outdir ./output_NANOPORE_AMPLICON/ \
+    --platform nanopore \
+    --genome 'MN908947.3' \
+    --primer_set_version 1 \
+    --fastq_dir ./OXFORD_NANOPORE_AMPLICON/ \
+    --artic_minion_caller medaka \
+    --artic_minion_medaka_model r941_min_high_g360 \
+    --artic_minion_aligner minimap2 \
+    -profile singularity \
+    --skip_nanoplot \
+    --max_memory '30.GB' \
+    --max_cpus 30
 
 **########## 3. Produce an alignment for subsequent analysis ##########**
 
@@ -76,17 +77,20 @@ All sequences are aligned against the Wuhan-Hu-1 reference sequence (EPI_ISL_402
 
     augur align --sequences total.aln --reference-name 'EPI_ISL_402125' --fill-gaps --output total_aligned.aln --nthreads 8
 
+**Maximum likelihood tree**
+Building a maximum likelihood phylogenetic tree on the masked alignment using the tree builder RaxML (https://cme.h-its.org/exelixis/web/software/raxml/) again implemented via the AUGUR pipeline.
+
+`augur tree --alignment gisaid_hcov-19.practical.mask.aln --method raxml --nthreads auto --output gisaid_hcov-19.practical.mask.raxml.tree`
+
+
 **########## 4. Phylogenetics reconstruction using R ##########**
 
 This section is a modified version of Lucy van Dorp's SARS-CoV-2 Phylogenomics Practical
 
-# Introduction 
+### Introduction 
 
 In this practical, you will explore some of the R packages that can be used to analyse genome sequencing data. The intention is to give a grounding in the basics of reading, plotting and making inference from phylogenetic trees using genomes from SARS-CoV-2, the agent of COVID-19, as an example.
 
-**SARS-CoV-2**
-
-This data will make use of 849 genome assemblies generated during the COVID-19 pandemic spanning the period of the 1st of January to the 12th of May 2020.
 
 By the end of the practical, you should be able to: 
 
@@ -95,24 +99,6 @@ By the end of the practical, you should be able to:
 * Plot a phylogenetic tree
 * Estimate a temporal regression
 * Perform a simple tip-dating analysis
-
-#Steps before the practical
-
-**Multiple sequence alignment**
-The whole genome assemblies used in this practical have already been aligned, meaning we can match up the base-pair positions of all included genomes. In order to do so these assemblies have been aligned relative to Wuhan-Hu-1, the first genome assembly published from the pandemic using the multi-sequence alignment tool MAFFT implemented via the AUGUR pipeline (https://github.com/nextstrain/augur). Wuhan-Hu-1 has GISAID accession ID `EPI_ISL_402125` and is also available on NCBI here: https://www.ncbi.nlm.nih.gov/search/all/?term=wuhan-hu-1.
-
-`augur align --sequences gisaid_hcov-19.practical.fasta --reference-name 'EPI_ISL_402125' --fill-gaps --output gisaid_hcov-19.practical.aln --nthreads auto`
-
-The beginning and ends of alignments can often be noisy. Hence we mask the first 55 and last 100 positions of the alignment. Sites flagged as possible sequencing errors have been masked with an 'N' position. An up to date list is available at https://raw.githubusercontent.com/W-L/ProblematicSites_SARS-CoV2/master/problematic_sites_sarsCov2.vcf.
-
-You can read more about potential sequencing errors in SARS-CoV-2 genomes here: https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473 These are important to be aware of as sequencing errors will appear homoplasic so may signpost to selection or recombination artefactually. 
-
-![**Wuhan-Hu-1 ~30kb genome**](data/Wuhan_Hu-1.jpg){#id .class width=80% height=80%}
-
-**Maximum likelihood tree**
-A  maximum likelihood phylgenetic tree was built on the masked alignment using the tree builder RaxML (https://cme.h-its.org/exelixis/web/software/raxml/) again implemented via the AUGUR pipeline.
-
-`augur tree --alignment gisaid_hcov-19.practical.mask.aln --method raxml --nthreads auto --output gisaid_hcov-19.practical.mask.raxml.tree`
 
 The raw data used to apply these steps are available in the `/data` folder of the practical.
 
