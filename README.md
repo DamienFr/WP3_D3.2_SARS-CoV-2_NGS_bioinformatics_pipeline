@@ -18,7 +18,7 @@ the list of datasets studied as well as information about the samples is provide
 
 **########## 2. Produce the consensus sequences of each sample ##########**
 
-The dataset comprises sequencing data produced with an Illumina amplicon strategy and with a Nanopore amplicon strategy 
+The dataset comprises sequencing data produced with both Illumina and Nanopore amplicon strategies. For its adaptability, we chose to analyse it using the nf-core/viralrecon workflow. Extensive documentation about it, including the installation procedure, usage and the numerous possible outputs can be found at https://nf-co.re/viralrecon
 
 **Analysis of the Illumina based sequencing projects**
 Details about how to specify your input files paths in ILLUMINA_AMPLICON.samplesheet.csv are provided at https://nf-co.re/viralrecon/2.5/usage
