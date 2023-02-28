@@ -1,0 +1,849 @@
+SRA_Run	Biosample	Laboratory	Date	Country	Download_path	LibraryStrategy	Platform
+SRR11637338	SAMN14765029	WA State Department of Health	2020-03-19	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637338/SRR11637338.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637337	SAMN14765030	WA State Department of Health	2020-03-19	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637337/SRR11637337.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637336	SAMN14765031	WA State Department of Health	2020-03-19	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637336/SRR11637336.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637332	SAMN14765035	WA State Department of Health	2020-03-19	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637332/SRR11637332.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637330	SAMN14765036	WA State Department of Health	2020-03-19	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637330/SRR11637330.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637328	SAMN14765038	WA State Department of Health	2020-03-19	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637328/SRR11637328.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637325	SAMN14765041	WA State Department of Health	2020-03-19	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637325/SRR11637325.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637318	SAMN14765047	MA State Public Health Laboratory	2020-01-29	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637318/SRR11637318.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637317	SAMN14765048	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-06	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637317/SRR11637317.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637316	SAMN14765049	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-10	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637316/SRR11637316.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637315	SAMN14765050	TX DSHS, Lab Services Section MC 1947	2020-02-11	USA: Texas	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637315/SRR11637315.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637224	SAMN14765127	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-05	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637224/SRR11637224.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637220	SAMN14765130	MA State Public Health Laboratory	2020-02-10	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637220/SRR11637220.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637219	SAMN14765131	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-09	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637219/SRR11637219.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637218	SAMN14765132	IL Department of Public Health Chicago Laboratory	2020-01-30	USA: Illinois	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637218/SRR11637218.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637217	SAMN14765133	MA State Public Health Laboratory	2020-02-04	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637217/SRR11637217.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637215	SAMN14765135	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-05	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637215/SRR11637215.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637213	SAMN14765137	CDPH, Viral and Rickettsial Disease Laboratory	2020-01-31	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637213/SRR11637213.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637209	SAMN14765140	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-02	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637209/SRR11637209.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637205	SAMN14765144	AZ SPHL, Arizona Department of Health Services	2020-01-31	USA: Arizona	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637205/SRR11637205.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637203	SAMN14765146	IL Department of Public Health Chicago Laboratory	2020-01-31	USA: Illinois	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637203/SRR11637203.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637202	SAMN14765147	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-07	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637202/SRR11637202.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637200	SAMN14765148	CDPH, Viral and Rickettsial Disease Laboratory	2020-01-29	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637200/SRR11637200.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637197	SAMN14765151	IL Department of Public Health Chicago Laboratory	2020-02-01	USA: Illinois	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637197/SRR11637197.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637196	SAMN14765152	CDPH, Viral and Rickettsial Disease Laboratory	2020-01-29	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637196/SRR11637196.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637193	SAMN14765155	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-07	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637193/SRR11637193.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637192	SAMN14765156	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-09	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637192/SRR11637192.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637191	SAMN14765157	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-04	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637191/SRR11637191.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593419	SAMN14652900	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-02-28	Germany: Heinsberg	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11593/SRR11593419/SRR11593419.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593418	SAMN14652901	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-02-25	Germany: Heinsberg	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593418/SRR11593418.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593362	SAMN14652902	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-02-26	Germany: Heinsberg	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/593/SRR11593362.sralite.1	AMPLICON	ILLUMINA
+SRR11593396	SAMN14652903	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-02-26	Germany: Heinsberg	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/593/SRR11593396/SRR11593396.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593360	SAMN14652904	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-02-26	Germany: Heinsberg	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/593/SRR11593360.sralite.1	AMPLICON	ILLUMINA
+SRR11593359	SAMN14652905	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-02-27	Germany: Heinsberg	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/593/SRR11593359.sralite.1	AMPLICON	ILLUMINA
+SRR11593363	SAMN14652906	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-02-27	Germany: Heinsberg	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11593/SRR11593363/SRR11593363.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593357	SAMN14652907	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-02-27	Germany: Heinsberg	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/593/SRR11593357.sralite.1	AMPLICON	ILLUMINA
+SRR11593352	SAMN14652908	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-02-28	Germany: Heinsberg	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/593/SRR11593352/SRR11593352.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593355	SAMN14652909	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-02-28	Germany: Heinsberg	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/593/SRR11593355.sralite.1	AMPLICON	ILLUMINA
+SRR11593354	SAMN14652910	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-03	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/593/SRR11593354.sralite.1	AMPLICON	ILLUMINA
+SRR11593415	SAMN14652912	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-11	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593415/SRR11593415.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593414	SAMN14652913	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-11	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593414/SRR11593414.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593411	SAMN14652916	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-11	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11593/SRR11593411/SRR11593411.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593410	SAMN14652917	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-13	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11593/SRR11593410/SRR11593410.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593409	SAMN14652918	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-14	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11593/SRR11593409/SRR11593409.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593408	SAMN14652919	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-14	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11593/SRR11593408/SRR11593408.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593406	SAMN14652920	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-14	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11593/SRR11593406/SRR11593406.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593404	SAMN14652922	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-16	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11593/SRR11593404/SRR11593404.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593403	SAMN14652923	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-14	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11593/SRR11593403/SRR11593403.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593402	SAMN14652924	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-15	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593402/SRR11593402.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593401	SAMN14652925	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-15	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/11593/SRR11593401/SRR11593401.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637288	SAMN14765071	IL Department of Public Health Chicago Laboratory	2020-01-25	USA: Illinois	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637288/SRR11637288.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637222	SAMN14765128	IL Department of Public Health Chicago Laboratory	2020-01-23	USA: Illinois	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637222/SRR11637222.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637221	SAMN14765129	IL Department of Public Health Chicago Laboratory	2020-01-27	USA: Illinois	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637221/SRR11637221.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637216	SAMN14765134	MA State Public Health Laboratory	2020-02-24	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637216/SRR11637216.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637214	SAMN14765136	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-11	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637214/SRR11637214.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637211	SAMN14765138	IL Dept. of Public Health Springfield Laboratory	2020-01-25	USA: Illinois	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637211/SRR11637211.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637210	SAMN14765139	CDPH, Viral and Rickettsial Disease Laboratory	2020-01-26	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637210/SRR11637210.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637207	SAMN14765142	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-24	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637207/SRR11637207.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637198	SAMN14765150	IL Department of Public Health Chicago Laboratory	2020-01-23	USA: Illinois	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637198/SRR11637198.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637195	SAMN14765153	TX DSHS, Lab Services Section MC 1947	2020-02-15	USA: Texas	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637195/SRR11637195.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637194	SAMN14765154	IL Department of Public Health Chicago Laboratory	2020-01-25	USA: Illinois	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637194/SRR11637194.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637347	SAMN14765158	CDPH, Viral and Rickettsial Disease Laboratory	2020-01-26	USA: California	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637347/SRR11637347.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637346	SAMN14765159	WA State Department of Health	2020-01-26	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637346/SRR11637346.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593399	SAMN14652927	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-15	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593399/SRR11593399.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593397	SAMN14652929	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-15	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593397/SRR11593397.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593393	SAMN14652932	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-16	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593393/SRR11593393.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593392	SAMN14652933	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-16	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/593/SRR11593392/SRR11593392.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593391	SAMN14652934	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-16	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593391/SRR11593391.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593390	SAMN14652935	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-16	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593390/SRR11593390.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593386	SAMN14652939	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-17	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593386/SRR11593386.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593384	SAMN14652940	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-18	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593384/SRR11593384.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593381	SAMN14652943	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-19	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11593/SRR11593381/SRR11593381.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593378	SAMN14652946	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-20	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11593/SRR11593378/SRR11593378.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593377	SAMN14652947	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-21	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/593/SRR11593377/SRR11593377.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593371	SAMN14652952	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-13	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11593/SRR11593371/SRR11593371.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593370	SAMN14652953	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-14	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/593/SRR11593370/SRR11593370.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11593369	SAMN14652954	Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Dusseldorf	2020-03-14	Germany: Dusseldorf	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/11593/SRR11593369/SRR11593369.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637352	SAMN14765006	Not available	2020-02-24	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637352/SRR11637352.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637313	SAMN14765051	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637313/SRR11637313.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637312	SAMN14765052	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637312/SRR11637312.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637311	SAMN14765053	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637311/SRR11637311.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637308	SAMN14765054	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637308/SRR11637308.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637307	SAMN14765055	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637307/SRR11637307.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637305	SAMN14765056	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637305/SRR11637305.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637304	SAMN14765057	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637304/SRR11637304.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637303	SAMN14765058	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637303/SRR11637303.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637302	SAMN14765059	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637302/SRR11637302.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637301	SAMN14765060	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637301/SRR11637301.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637299	SAMN14765061	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-20	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637299/SRR11637299.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637297	SAMN14765062	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-20	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637297/SRR11637297.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637296	SAMN14765063	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-20	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637296/SRR11637296.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637295	SAMN14765064	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-21	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637295/SRR11637295.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637294	SAMN14765065	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-21	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637294/SRR11637294.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637293	SAMN14765066	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-21	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637293/SRR11637293.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637292	SAMN14765067	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-21	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637292/SRR11637292.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637291	SAMN14765068	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-21	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637291/SRR11637291.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637290	SAMN14765069	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-21	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637290/SRR11637290.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637289	SAMN14765070	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-21	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637289/SRR11637289.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637285	SAMN14765072	WA State Department of Health	2020-02-22	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637285/SRR11637285.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637283	SAMN14765073	WA State Department of Health	2020-02-22	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637283/SRR11637283.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637281	SAMN14765074	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-24	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637281/SRR11637281.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637280	SAMN14765075	NV State Public Health Laboratory	2020-03-04	USA: New York	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637280/SRR11637280.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637272	SAMN14765082	SC Dept of Health and Env. Control-Bureau of Laboratories	2020-03-05	USA: South Carolina	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637272/SRR11637272.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637271	SAMN14765083	SC Dept of Health and Env. Control-Bureau of Laboratories	2020-03-07	USA: South Carolina	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637271/SRR11637271.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637268	SAMN14765086	NJ Public Health and Environmental Laboratories	2020-03-04	USA: New Jersey	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637268/SRR11637268.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637255	SAMN14765098	IA State Hygienic Laboratory	2020-03-07	USA: Iowa	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637255/SRR11637255.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637349	SAMN14765099	IA State Hygienic Laboratory	2020-03-07	USA: Iowa	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637349/SRR11637349.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637254	SAMN14765100	IA State Hygienic Laboratory	2020-03-08	USA: Iowa	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637254/SRR11637254.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637253	SAMN14765101	IA State Hygienic Laboratory	2020-03-08	USA: Iowa	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637253/SRR11637253.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637252	SAMN14765102	IA State Hygienic Laboratory	2020-03-08	USA: Iowa	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637252/SRR11637252.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637250	SAMN14765104	TX DSHS, Lab Services Section MC 1947	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637250/SRR11637250.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637249	SAMN14765105	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637249/SRR11637249.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637248	SAMN14765106	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637248/SRR11637248.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637247	SAMN14765107	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637247/SRR11637247.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637246	SAMN14765108	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637246/SRR11637246.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637244	SAMN14765109	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637244/SRR11637244.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637243	SAMN14765110	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637243/SRR11637243.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637242	SAMN14765111	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637242/SRR11637242.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637241	SAMN14765112	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637241/SRR11637241.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637240	SAMN14765113	NE Public Health Laboratory	2020-02-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637240/SRR11637240.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637239	SAMN14765114	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637239/SRR11637239.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637238	SAMN14765115	TX DSHS, Lab Services Section MC 1947	2020-02-20	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637238/SRR11637238.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637237	SAMN14765116	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-20	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637237/SRR11637237.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637236	SAMN14765117	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-20	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637236/SRR11637236.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637235	SAMN14765118	TX DSHS, Lab Services Section MC 1947	2020-02-25	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637235/SRR11637235.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637233	SAMN14765119	TX DSHS, Lab Services Section MC 1947	2020-02-25	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637233/SRR11637233.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637232	SAMN14765120	TX DSHS, Lab Services Section MC 1947	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637232/SRR11637232.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637231	SAMN14765121	TX DSHS, Lab Services Section MC 1947	2020-02-18	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637231/SRR11637231.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637230	SAMN14765122	WA State Department of Health	2020-02-22	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637230/SRR11637230.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637229	SAMN14765123	TX DSHS, Lab Services Section MC 1947	2020-02-23	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637229/SRR11637229.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637227	SAMN14765125	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-24	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637227/SRR11637227.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637226	SAMN14765126	CDPH, Viral and Rickettsial Disease Laboratory	2020-02-24	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637226/SRR11637226.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637342	SAMN14765008	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637342/SRR11637342.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637331	SAMN14765009	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637331/SRR11637331.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637320	SAMN14765010	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637320/SRR11637320.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637309	SAMN14765011	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637309/SRR11637309.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637276	SAMN14765014	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637276/SRR11637276.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637265	SAMN14765015	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637265/SRR11637265.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637350	SAMN14765016	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637350/SRR11637350.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637223	SAMN14765019	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637223/SRR11637223.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637201	SAMN14765021	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637201/SRR11637201.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637345	SAMN14765023	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637345/SRR11637345.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637344	SAMN14765024	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637344/SRR11637344.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637340	SAMN14765027	WA State Department of Health	2020-03-13	USA: Washington	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637340/SRR11637340.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637279	SAMN14765076	NYC Department of Health and Mental Hygiene	2020-03-04	USA: New York	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637279/SRR11637279.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637278	SAMN14765077	MA State Public Health Laboratory	2020-03-04	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637278/SRR11637278.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637277	SAMN14765078	MA State Public Health Laboratory	2020-03-04	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637277/SRR11637277.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637275	SAMN14765079	MA State Public Health Laboratory	2020-03-05	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637275/SRR11637275.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637274	SAMN14765080	MA State Public Health Laboratory	2020-03-05	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637274/SRR11637274.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637273	SAMN14765081	MA State Public Health Laboratory	2020-03-05	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637273/SRR11637273.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637270	SAMN14765084	SC Dept of Health and Env. Control-Bureau of Laboratories	2020-03-07	USA: South Carolina	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637270/SRR11637270.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637269	SAMN14765085	SC Dept of Health and Env. Control-Bureau of Laboratories	2020-03-05	USA: South Carolina	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11637/SRR11637269/SRR11637269.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637267	SAMN14765087	SC Dept of Health and Env. Control-Bureau of Laboratories	2020-03-07	USA: South Carolina	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637267/SRR11637267.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637266	SAMN14765088	VA-Division of Consolidated Laboratory Services	2020-03-06	USA: Virginia	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637266/SRR11637266.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637264	SAMN14765089	MA State Public Health Laboratory	2020-03-06	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637264/SRR11637264.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637263	SAMN14765090	MA State Public Health Laboratory	2020-03-06	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637263/SRR11637263.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637262	SAMN14765091	MA State Public Health Laboratory	2020-03-06	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637262/SRR11637262.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637261	SAMN14765092	MA State Public Health Laboratory	2020-03-06	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637261/SRR11637261.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637260	SAMN14765093	MA State Public Health Laboratory	2020-03-06	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637260/SRR11637260.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637259	SAMN14765094	MA State Public Health Laboratory	2020-03-06	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637259/SRR11637259.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637258	SAMN14765095	MA State Public Health Laboratory	2020-03-05	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11637/SRR11637258/SRR11637258.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637257	SAMN14765096	MA State Public Health Laboratory	2020-03-05	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/SRR011/11637/SRR11637257/SRR11637257.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11637256	SAMN14765097	MA State Public Health Laboratory	2020-03-07	USA: Massachusetts	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11637/SRR11637256/SRR11637256.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084870	SAMEA6807739		2020-04-03	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084870/ERR4084870.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084876	SAMEA6807747		2020-04-03	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084876/ERR4084876.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082068	SAMEA6807749		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082068/ERR4082068.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082080	SAMEA6807761		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082080/ERR4082080.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082083	SAMEA6807764		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082083/ERR4082083.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082214	SAMEA6807774		2020-03-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos1/sra-pub-zq-38/ERR004/4082/ERR4082214/ERR4082214.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082453	SAMEA6807899		2020-04-04	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082453/ERR4082453.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084905	SAMEA6807904		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084905/ERR4084905.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082458	SAMEA6807905		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082458/ERR4082458.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084908	SAMEA6807909		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084908/ERR4084908.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084910	SAMEA6807911		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084910/ERR4084910.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082461	SAMEA6807913		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082461/ERR4082461.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084916	SAMEA6807919		2020-03-26	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084916/ERR4084916.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082472	SAMEA6807928		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082472/ERR4082472.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082477	SAMEA6807932		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082477/ERR4082477.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082481	SAMEA6807936		2020-04-06	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082481/ERR4082481.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082482	SAMEA6807937		2020-04-06	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082482/ERR4082482.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082495	SAMEA6807949		2020-04-07	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082495/ERR4082495.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082502	SAMEA6807956		2020-04-06	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082502/ERR4082502.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082508	SAMEA6807962		2020-04-06	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082508/ERR4082508.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082509	SAMEA6807963		2020-04-04	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082509/ERR4082509.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082511	SAMEA6807965		2020-04-07	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082511/ERR4082511.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082515	SAMEA6807970		2020-04-07	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082515/ERR4082515.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082524	SAMEA6807982		2020-04-06	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082524/ERR4082524.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082525	SAMEA6807984		2020-04-06	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082525/ERR4082525.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082530	SAMEA6807989		2020-03-26	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082530/ERR4082530.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082532	SAMEA6807991		2020-03-27	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082532/ERR4082532.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082539	SAMEA6807999		2020-04-08	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082539/ERR4082539.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082543	SAMEA6808004		2020-04-10	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082543/ERR4082543.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082545	SAMEA6808007		2020-04-07	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082545/ERR4082545.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082551	SAMEA6808014		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082551/ERR4082551.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082557	SAMEA6808019		2020-04-07	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082557/ERR4082557.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082558	SAMEA6808020		2020-04-06	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082558/ERR4082558.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082610	SAMEA6808044		2020-04-08	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082610/ERR4082610.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082618	SAMEA6808051		2020-04-09	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082618/ERR4082618.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082622	SAMEA6808055		2020-04-09	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082622/ERR4082622.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082628	SAMEA6808061		2020-04-09	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082628/ERR4082628.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082629	SAMEA6808062		2020-04-09	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082629/ERR4082629.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082630	SAMEA6808063		2020-04-09	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082630/ERR4082630.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082667	SAMEA6808064		2020-04-10	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082667/ERR4082667.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082668	SAMEA6808101		2020-04-10	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082668/ERR4082668.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082671	SAMEA6808104		2020-04-10	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082671/ERR4082671.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082676	SAMEA6808109		2020-04-09	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082676/ERR4082676.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082678	SAMEA6808111		2020-04-10	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082678/ERR4082678.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082681	SAMEA6808114		2020-04-11	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082681/ERR4082681.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082684	SAMEA6808117		2020-04-11	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082684/ERR4082684.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082686	SAMEA6808118		2020-04-11	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082686/ERR4082686.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082688	SAMEA6808121		2020-04-11	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082688/ERR4082688.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082689	SAMEA6808122		2020-04-11	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082689/ERR4082689.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084943	SAMEA6808131		2020-04-11	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084943/ERR4084943.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084945	SAMEA6808132		2020-04-09	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084945/ERR4084945.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084948	SAMEA6808135		2020-04-11	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084948/ERR4084948.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084954	SAMEA6808138		2020-04-11	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084954/ERR4084954.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085024	SAMEA6808156		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085024/ERR4085024.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085062	SAMEA6808158		2020-04-16	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085062/ERR4085062.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085063	SAMEA6808159		2020-04-15	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085063/ERR4085063.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085096	SAMEA6808164		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085096/ERR4085096.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082710	SAMEA6808167		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082710/ERR4082710.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085104	SAMEA6808172		2020-04-16	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085104/ERR4085104.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082711	SAMEA6808173		2020-04-16	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082711/ERR4082711.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085117	SAMEA6808181		2020-03-29	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085117/ERR4085117.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084953	SAMEA6808137		2020-04-10	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084953/ERR4084953.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084966	SAMEA6808141		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084966/ERR4084966.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084981	SAMEA6808142		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084981/ERR4084981.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084991	SAMEA6808145		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084991/ERR4084991.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085004	SAMEA6808153		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085004/ERR4085004.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085022	SAMEA6808155		2020-04-14	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085022/ERR4085022.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085073	SAMEA6808160		2020-04-14	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085073/ERR4085073.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085082	SAMEA6808162		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085082/ERR4085082.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085123	SAMEA6808185		2020-03-29	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085123.sralite.1	AMPLICON	ILLUMINA
+ERR4085131	SAMEA6808190		2020-03-29	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085131.sralite.1	AMPLICON	ILLUMINA
+ERR4082748	SAMEA6808198		2020-03-31	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082748.sralite.1	AMPLICON	ILLUMINA
+ERR4082753	SAMEA6808201		2020-03-31	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082753.sralite.1	AMPLICON	ILLUMINA
+ERR4082757	SAMEA6808203		2020-03-26	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082757/ERR4082757.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082758	SAMEA6808204		2020-03-25	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082758.sralite.1	AMPLICON	ILLUMINA
+ERR4082762	SAMEA6808206		2020-03-30	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082762.sralite.1	AMPLICON	ILLUMINA
+ERR4082769	SAMEA6808211		2020-03-31	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082769.sralite.1	AMPLICON	ILLUMINA
+ERR4082796	SAMEA6808232		2020-03-31	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082796.sralite.1	AMPLICON	ILLUMINA
+ERR4082800	SAMEA6808234		2020-03-31	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082800.sralite.1	AMPLICON	ILLUMINA
+ERR4082812	SAMEA6808242		2020-04-01	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082812.sralite.1	AMPLICON	ILLUMINA
+ERR4082831	SAMEA6808243		2020-04-01	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082831.sralite.1	AMPLICON	ILLUMINA
+ERR4082832	SAMEA6808262		2020-04-02	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082832.sralite.1	AMPLICON	ILLUMINA
+ERR4082833	SAMEA6808263		2020-04-01	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082833.sralite.1	AMPLICON	ILLUMINA
+ERR4082841	SAMEA6808269		2020-04-02	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082841.sralite.1	AMPLICON	ILLUMINA
+ERR4082842	SAMEA6808270		2020-04-01	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082842.sralite.1	AMPLICON	ILLUMINA
+ERR4082849	SAMEA6808276		2020-04-02	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082849.sralite.1	AMPLICON	ILLUMINA
+ERR4082852	SAMEA6808278		2020-04-02	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082852.sralite.1	AMPLICON	ILLUMINA
+ERR4082860	SAMEA6808284		2020-04-02	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082860.sralite.1	AMPLICON	ILLUMINA
+ERR4082875	SAMEA6808294		2020-04-03	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082875.sralite.1	AMPLICON	ILLUMINA
+ERR4082879	SAMEA6808297		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082879.sralite.1	AMPLICON	ILLUMINA
+ERR4082881	SAMEA6808299		2020-04-03	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082881.sralite.1	AMPLICON	ILLUMINA
+ERR4082893	SAMEA6808309		2020-04-05	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082893/ERR4082893.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082899	SAMEA6808313		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082899.sralite.1	AMPLICON	ILLUMINA
+ERR4082903	SAMEA6808316		2020-04-03	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082903.sralite.1	AMPLICON	ILLUMINA
+ERR4082907	SAMEA6808318		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082907.sralite.1	AMPLICON	ILLUMINA
+ERR4082911	SAMEA6808321		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082911.sralite.1	AMPLICON	ILLUMINA
+ERR4082912	SAMEA6808322		2020-04-05	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082912/ERR4082912.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082913	SAMEA6808323		2020-04-05	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082913/ERR4082913.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082914	SAMEA6808324		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082914.sralite.1	AMPLICON	ILLUMINA
+ERR4082944	SAMEA6808347		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4082/ERR4082944/ERR4082944.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4082946	SAMEA6808349		2020-04-05	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/082/ERR4082946.sralite.1	AMPLICON	ILLUMINA
+ERR4085169	SAMEA6808361		2020-04-07	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085169.sralite.1	AMPLICON	ILLUMINA
+ERR4085191	SAMEA6808386		2020-04-11	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085191/ERR4085191.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085192	SAMEA6808387		2020-04-13	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085192/ERR4085192.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085193	SAMEA6808388		2020-03-17	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085193/ERR4085193.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085194	SAMEA6808389		2020-03-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085194.sralite.1	AMPLICON	ILLUMINA
+ERR4085208	SAMEA6808393		2020-03-20	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085208.sralite.1	AMPLICON	ILLUMINA
+ERR4085214	SAMEA6808396		2020-03-21	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085214.sralite.1	AMPLICON	ILLUMINA
+ERR4085215	SAMEA6808397		2020-03-20	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085215.sralite.1	AMPLICON	ILLUMINA
+ERR4085219	SAMEA6808398		2020-03-21	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085219.sralite.1	AMPLICON	ILLUMINA
+ERR4085223	SAMEA6808399		2020-03-22	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085223/ERR4085223.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085224	SAMEA6808400		2020-03-22	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085224.sralite.1	AMPLICON	ILLUMINA
+ERR4085237	SAMEA6808431		2020-03-23	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085237/ERR4085237.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085250	SAMEA6808447		2020-03-23	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085250.sralite.1	AMPLICON	ILLUMINA
+ERR4085255	SAMEA6808451		2020-03-23	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085255/ERR4085255.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085258	SAMEA6808453		2020-03-23	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085258.sralite.1	AMPLICON	ILLUMINA
+ERR4085263	SAMEA6808457		2020-03-24	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085263.sralite.1	AMPLICON	ILLUMINA
+ERR4085268	SAMEA6808458		2020-03-24	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085268.sralite.1	AMPLICON	ILLUMINA
+ERR4085275	SAMEA6808460		2020-03-25	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085275.sralite.1	AMPLICON	ILLUMINA
+ERR4085276	SAMEA6808461		2020-03-24	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085276.sralite.1	AMPLICON	ILLUMINA
+ERR4085281	SAMEA6808478		2020-03-24	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085281.sralite.1	AMPLICON	ILLUMINA
+ERR4085370	SAMEA6808484		2020-03-26	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085370/ERR4085370.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085377	SAMEA6808488		2020-03-25	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085377/ERR4085377.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085383	SAMEA6808493		2020-03-26	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085383.sralite.1	AMPLICON	ILLUMINA
+ERR4085390	SAMEA6808497		2020-03-26	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085390.sralite.1	AMPLICON	ILLUMINA
+ERR4085393	SAMEA6808498		2020-03-26	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085393/ERR4085393.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085527	SAMEA6808535		2020-04-06	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085527/ERR4085527.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085533	SAMEA6808538		2020-04-06	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085533/ERR4085533.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085536	SAMEA6808540		2020-04-06	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085536/ERR4085536.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085542	SAMEA6808545		2020-04-07	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085542/ERR4085542.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085547	SAMEA6808549		2020-04-07	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085547/ERR4085547.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085550	SAMEA6808551		2020-04-07	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085550/ERR4085550.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085552	SAMEA6808553		2020-04-07	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085552/ERR4085552.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085555	SAMEA6808555		2020-04-07	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085555/ERR4085555.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085556	SAMEA6808556		2020-04-08	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085556/ERR4085556.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085560	SAMEA6808560		2020-04-06	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085560/ERR4085560.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085578	SAMEA6808575		2020-04-09	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085578/ERR4085578.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085579	SAMEA6808576		2020-04-08	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085579/ERR4085579.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085588	SAMEA6808585		2020-04-08	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085588/ERR4085588.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085591	SAMEA6808587		2020-04-08	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085591/ERR4085591.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085594	SAMEA6808589		2020-04-08	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085594/ERR4085594.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085598	SAMEA6808592		2020-04-08	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085598/ERR4085598.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085611	SAMEA6808598		2020-04-10	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085611/ERR4085611.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085612	SAMEA6808599		2020-04-10	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085612/ERR4085612.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085401	SAMEA6808503		2020-03-27	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085401.sralite.1	AMPLICON	ILLUMINA
+ERR4085403	SAMEA6808505		2020-03-27	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085403.sralite.1	AMPLICON	ILLUMINA
+ERR4085404	SAMEA6808506		2020-03-27	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085404.sralite.1	AMPLICON	ILLUMINA
+ERR4085405	SAMEA6808507		2020-03-27	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085405/ERR4085405.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085416	SAMEA6808516		2020-03-27	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085416.sralite.1	AMPLICON	ILLUMINA
+ERR4085438	SAMEA6808532		2020-03-29	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085438/ERR4085438.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085617	SAMEA6808603		2020-04-12	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085617/ERR4085617.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085618	SAMEA6808604		2020-04-12	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085618/ERR4085618.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085623	SAMEA6808609		2020-04-12	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085623/ERR4085623.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085625	SAMEA6808610		2020-04-13	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085625/ERR4085625.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085626	SAMEA6808611		2020-04-13	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085626/ERR4085626.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085629	SAMEA6808613		2020-04-13	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085629/ERR4085629.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085631	SAMEA6808615		2020-04-13	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085631/ERR4085631.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085634	SAMEA6808618		2020-04-11	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085634/ERR4085634.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085638	SAMEA6808622		2020-04-11	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085638/ERR4085638.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085642	SAMEA6808623		2020-04-13	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085642/ERR4085642.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085645	SAMEA6808625		2020-04-13	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085645/ERR4085645.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085647	SAMEA6808627		2020-04-12	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085647/ERR4085647.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085656	SAMEA6808636		2020-04-12	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085656/ERR4085656.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085661	SAMEA6808640		2020-04-12	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085661/ERR4085661.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085669	SAMEA6808646		2020-04-13	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085669/ERR4085669.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085670	SAMEA6808647		2020-04-13	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085670/ERR4085670.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085671	SAMEA6808648		2020-04-14	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos1/sra-pub-zq-38/ERR004/4085/ERR4085671/ERR4085671.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085677	SAMEA6808652		2020-04-14	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085677/ERR4085677.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085678	SAMEA6808653		2020-04-14	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085678/ERR4085678.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085681	SAMEA6808656		2020-04-14	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085681/ERR4085681.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085682	SAMEA6808657		2020-04-15	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085682/ERR4085682.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085685	SAMEA6808660		2020-04-14	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085685/ERR4085685.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085687	SAMEA6808662		2020-04-14	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085687/ERR4085687.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085688	SAMEA6808663		2020-04-14	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085688/ERR4085688.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085689	SAMEA6808664		2020-04-14	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085689/ERR4085689.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085692	SAMEA6808667		2020-04-14	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085692/ERR4085692.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085694	SAMEA6808669		2020-04-15	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085694/ERR4085694.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085703	SAMEA6808676		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085703/ERR4085703.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085705	SAMEA6808678		2020-04-15	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085705/ERR4085705.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085707	SAMEA6808680		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085707/ERR4085707.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085710	SAMEA6808682		2020-04-15	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085710/ERR4085710.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085714	SAMEA6808685		2020-04-15	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085714/ERR4085714.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085715	SAMEA6808686		2020-04-15	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085715/ERR4085715.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085720	SAMEA6808691		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085720/ERR4085720.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085725	SAMEA6808694		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085725/ERR4085725.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085728	SAMEA6808697		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085728/ERR4085728.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085729	SAMEA6808698		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085729/ERR4085729.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085730	SAMEA6808699		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085730/ERR4085730.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085731	SAMEA6808700		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085731/ERR4085731.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085734	SAMEA6808701		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085734/ERR4085734.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085736	SAMEA6808703		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085736/ERR4085736.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085737	SAMEA6808704		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085737/ERR4085737.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085738	SAMEA6808705		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085738/ERR4085738.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085743	SAMEA6808709		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085743/ERR4085743.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085745	SAMEA6808711		2020-04-16	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085745/ERR4085745.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085746	SAMEA6808712		2020-04-17	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085746/ERR4085746.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085748	SAMEA6808714		2020-04-17	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085748/ERR4085748.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085754	SAMEA6808716		2020-04-17	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085754/ERR4085754.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085757	SAMEA6808717		2020-04-17	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085757/ERR4085757.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085760	SAMEA6808718		2020-04-17	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085760/ERR4085760.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085766	SAMEA6808721		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085766/ERR4085766.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085769	SAMEA6808722		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085769/ERR4085769.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085770	SAMEA6808723		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085770/ERR4085770.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085771	SAMEA6808724		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085771/ERR4085771.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085772	SAMEA6808725		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085772/ERR4085772.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085773	SAMEA6808726		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085773/ERR4085773.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085774	SAMEA6808727		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085774/ERR4085774.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085775	SAMEA6808728		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085775/ERR4085775.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085777	SAMEA6808730		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085777/ERR4085777.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085779	SAMEA6808731		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085779/ERR4085779.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085781	SAMEA6808733		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085781/ERR4085781.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085783	SAMEA6808735		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085783/ERR4085783.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085784	SAMEA6808736		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085784/ERR4085784.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085785	SAMEA6808737		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085785/ERR4085785.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085786	SAMEA6808738		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085786/ERR4085786.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085787	SAMEA6808739		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085787/ERR4085787.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085788	SAMEA6808740		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085788/ERR4085788.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085789	SAMEA6808741		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085789/ERR4085789.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085790	SAMEA6808742		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085790/ERR4085790.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085791	SAMEA6808743		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085791/ERR4085791.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085792	SAMEA6808744		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085792/ERR4085792.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085793	SAMEA6808745		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085793/ERR4085793.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085794	SAMEA6808746		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085794/ERR4085794.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085795	SAMEA6808747		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085795/ERR4085795.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085797	SAMEA6808749		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085797/ERR4085797.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085798	SAMEA6808750		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085798/ERR4085798.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085799	SAMEA6808751		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085799/ERR4085799.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085800	SAMEA6808752		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085800/ERR4085800.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085802	SAMEA6808754		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085802/ERR4085802.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085803	SAMEA6808755		2020-04-19	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085803/ERR4085803.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085804	SAMEA6808756		2020-04-18	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085804/ERR4085804.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085900	SAMEA6808764		2020-04-02	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085900/ERR4085900.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085906	SAMEA6808770		2020-04-01	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085906/ERR4085906.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085907	SAMEA6808771		2020-04-01	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos1/sra-pub-zq-38/ERR004/4085/ERR4085907/ERR4085907.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085913	SAMEA6808777		2020-04-01	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085913/ERR4085913.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085922	SAMEA6808786		2020-04-01	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085922/ERR4085922.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085923	SAMEA6808787		2020-04-02	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085923/ERR4085923.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085933	SAMEA6808797		2020-04-03	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085933/ERR4085933.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085934	SAMEA6808798		2020-04-03	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085934/ERR4085934.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085943	SAMEA6808806		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085943/ERR4085943.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085946	SAMEA6808809		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085946/ERR4085946.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085955	SAMEA6808818		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos1/sra-pub-zq-38/ERR004/4085/ERR4085955/ERR4085955.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085959	SAMEA6808822		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085959/ERR4085959.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085973	SAMEA6808836		2020-04-05	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085973/ERR4085973.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085975	SAMEA6808838		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085975/ERR4085975.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085976	SAMEA6808839		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085976/ERR4085976.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085985	SAMEA6808848		2020-04-04	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085985/ERR4085985.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085995	SAMEA6808857		2020-04-06	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085995/ERR4085995.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086011	SAMEA6808859		2020-03-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086011/ERR4086011.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086189	SAMEA6808861		2020-03-27	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086189/ERR4086189.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086190	SAMEA6808862		2020-03-27	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086190/ERR4086190.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086205	SAMEA6808877		2020-03-28	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086205/ERR4086205.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086209	SAMEA6808881		2020-03-29	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086209/ERR4086209.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086211	SAMEA6808883		2020-03-28	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086211/ERR4086211.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086216	SAMEA6808888		2020-03-29	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086216/ERR4086216.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086237	SAMEA6808907		2020-03-31	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086237/ERR4086237.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086247	SAMEA6808917		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086247/ERR4086247.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086252	SAMEA6808923		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086252/ERR4086252.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086264	SAMEA6808933		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086264/ERR4086264.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086266	SAMEA6808935		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086266/ERR4086266.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086268	SAMEA6808937		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086268/ERR4086268.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086270	SAMEA6808939		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086270/ERR4086270.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086284	SAMEA6808953		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086284/ERR4086284.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086290	SAMEA6808958		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086290/ERR4086290.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086310	SAMEA6808976		2020-04-03	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086310/ERR4086310.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086321	SAMEA6808986		2020-04-03	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086321/ERR4086321.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086333	SAMEA6809084		2020-04-03	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086333/ERR4086333.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086339	SAMEA6809089		2020-04-04	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086339/ERR4086339.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086343	SAMEA6809093		2020-04-04	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086343/ERR4086343.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086351	SAMEA6809100		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086351/ERR4086351.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086367	SAMEA6809115		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086367/ERR4086367.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086391	SAMEA6809139		2020-04-06	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086391/ERR4086391.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086392	SAMEA6809140		2020-04-07	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086392/ERR4086392.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086396	SAMEA6809143		2020-04-07	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086396/ERR4086396.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086400	SAMEA6809147		2020-04-08	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086400/ERR4086400.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086401	SAMEA6809148		2020-04-08	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086401/ERR4086401.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086402	SAMEA6809149		2020-03-18	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086402/ERR4086402.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086403	SAMEA6809150		2020-03-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086403/ERR4086403.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086410	SAMEA6809157		2020-03-21	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086410/ERR4086410.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086414	SAMEA6809160		2020-04-07	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086414/ERR4086414.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086417	SAMEA6809163		2020-03-20	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086417/ERR4086417.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086421	SAMEA6809167		2020-04-15	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086421/ERR4086421.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091544	SAMEA6809176		2020-03-31	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091544/ERR4091544.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091547	SAMEA6809178		2020-03-24	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091547/ERR4091547.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091554	SAMEA6809187		2020-03-24	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091554/ERR4091554.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091557	SAMEA6809194		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091557/ERR4091557.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091568	SAMEA6809218		2020-03-22	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091568/ERR4091568.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091573	SAMEA6809226		2020-04-03	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091573/ERR4091573.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091576	SAMEA6809232		2020-04-15	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091576/ERR4091576.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091583	SAMEA6809239		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091583/ERR4091583.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091641	SAMEA6809262		2020-03-22	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091641/ERR4091641.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091650	SAMEA6809271		2020-03-20	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091650/ERR4091650.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091663	SAMEA6809283		2020-03-21	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091663/ERR4091663.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091664	SAMEA6809284		2020-03-20	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091664/ERR4091664.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091665	SAMEA6809285		2020-03-21	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091665/ERR4091665.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091686	SAMEA6809340		2020-04-09	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091686/ERR4091686.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091687	SAMEA6809341		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091687/ERR4091687.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091690	SAMEA6809344		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091690/ERR4091690.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091691	SAMEA6809345		2020-03-19	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091691/ERR4091691.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091714	SAMEA6809657		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091714/ERR4091714.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091721	SAMEA6809663		2020-03-28	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091721/ERR4091721.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091723	SAMEA6809665		2020-03-22	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091723/ERR4091723.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091728	SAMEA6809671		2020-03-20	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091728/ERR4091728.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091733	SAMEA6809675		2020-04-05	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091733/ERR4091733.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091738	SAMEA6809680		2020-03-21	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091738/ERR4091738.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091744	SAMEA6809686		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091744/ERR4091744.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091745	SAMEA6809687		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091745/ERR4091745.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091765	SAMEA6809705		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091765/ERR4091765.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091772	SAMEA6809712		2020-03-21	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091772/ERR4091772.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091776	SAMEA6809716		2020-03-31	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091776/ERR4091776.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091781	SAMEA6809721		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091781/ERR4091781.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091782	SAMEA6809722		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091782/ERR4091782.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091785	SAMEA6809725		2020-03-21	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091785/ERR4091785.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091790	SAMEA6809730		2020-04-04	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091790/ERR4091790.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091797	SAMEA6809737		2020-03-31	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091797/ERR4091797.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091802	SAMEA6809741		2020-03-20	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091802/ERR4091802.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091803	SAMEA6809742		2020-04-03	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091803/ERR4091803.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091811	SAMEA6809750		2020-03-21	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091811/ERR4091811.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091818	SAMEA6809757		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091818/ERR4091818.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091825	SAMEA6809763		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091825/ERR4091825.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091826	SAMEA6809764		2020-03-19	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091826/ERR4091826.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091830	SAMEA6809768		2020-03-22	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091830/ERR4091830.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091834	SAMEA6809772		2020-03-22	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091834/ERR4091834.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091838	SAMEA6809776		2020-04-03	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091838/ERR4091838.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091840	SAMEA6809778		2020-03-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091840/ERR4091840.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091841	SAMEA6809779		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091841/ERR4091841.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091866	SAMEA6809791		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091866/ERR4091866.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091869	SAMEA6809794		2020-03-21	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091869/ERR4091869.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091871	SAMEA6809796		2020-03-21	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091871/ERR4091871.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091873	SAMEA6809798		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091873/ERR4091873.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091874	SAMEA6809799		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091874/ERR4091874.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091878	SAMEA6809802		2020-04-03	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091878/ERR4091878.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091891	SAMEA6809814		2020-03-19	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091891/ERR4091891.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091920	SAMEA6809822		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091920/ERR4091920.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091927	SAMEA6809829		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091927/ERR4091927.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091930	SAMEA6809832		2020-03-23	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091930/ERR4091930.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091933	SAMEA6809835		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091933/ERR4091933.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091937	SAMEA6809839		2020-03-28	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091937/ERR4091937.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091939	SAMEA6809840		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091939/ERR4091939.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091942	SAMEA6809842		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091942/ERR4091942.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091958	SAMEA6809857		2020-03-30	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091958/ERR4091958.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091962	SAMEA6809861		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091962/ERR4091962.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091967	SAMEA6809866		2020-04-04	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091967/ERR4091967.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091968	SAMEA6809867		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091968/ERR4091968.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084904	SAMEA6810429		2020-04-04	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084904/ERR4084904.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084935	SAMEA6810433		2020-04-11	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084935/ERR4084935.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084942	SAMEA6810434		2020-04-11	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084942/ERR4084942.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084951	SAMEA6810437		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084951/ERR4084951.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084956	SAMEA6810440		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084956/ERR4084956.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084957	SAMEA6810441		2020-04-10	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084957/ERR4084957.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084962	SAMEA6810445		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084962/ERR4084962.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084967	SAMEA6810657		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084967/ERR4084967.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084973	SAMEA6810663		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084973/ERR4084973.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084974	SAMEA6810664		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084974/ERR4084974.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084975	SAMEA6810665		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084975/ERR4084975.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084978	SAMEA6810668		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084978/ERR4084978.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084984	SAMEA6810672		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084984/ERR4084984.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084989	SAMEA6810676		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084989/ERR4084989.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084994	SAMEA6810678		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084994/ERR4084994.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4084995	SAMEA6810679		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4084/ERR4084995/ERR4084995.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085006	SAMEA6810683		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085006/ERR4085006.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085011	SAMEA6810688		2020-04-14	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085011/ERR4085011.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085016	SAMEA6810693		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085016/ERR4085016.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085017	SAMEA6810694		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085017/ERR4085017.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085018	SAMEA6810695		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085018/ERR4085018.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085019	SAMEA6810696		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085019/ERR4085019.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085020	SAMEA6810697		2020-04-12	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085020/ERR4085020.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085025	SAMEA6810699		2020-04-15	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085025/ERR4085025.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085035	SAMEA6810709		2020-04-14	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085035/ERR4085035.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086285	SAMEA6810855		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086285/ERR4086285.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086292	SAMEA6810856		2020-04-02	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086292/ERR4086292.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086315	SAMEA6810857		2020-04-03	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086315/ERR4086315.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4086337	SAMEA6810858		2020-04-04	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4086/ERR4086337/ERR4086337.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091570	SAMEA6811750		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091570/ERR4091570.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091670	SAMEA6811788		2020-04-01	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091670/ERR4091670.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4091941	SAMEA6811826		2020-03-18	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-18/ERR004/4091/ERR4091941/ERR4091941.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085038	SAMEA6810712		2020-04-14	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085038/ERR4085038.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085040	SAMEA6810714		2020-04-14	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085040/ERR4085040.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085043	SAMEA6810717		2020-04-14	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085043/ERR4085043.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085051	SAMEA6810724		2020-04-14	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085051/ERR4085051.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085054	SAMEA6810727		2020-04-13	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085054/ERR4085054.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085057	SAMEA6810730		2020-04-15	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085057/ERR4085057.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085060	SAMEA6810733		2020-04-16	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085060/ERR4085060.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085066	SAMEA6810737		2020-04-16	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085066/ERR4085066.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085068	SAMEA6810739		2020-04-16	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085068/ERR4085068.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085070	SAMEA6810741		2020-04-15	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085070/ERR4085070.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085071	SAMEA6810742		2020-04-15	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085071/ERR4085071.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085072	SAMEA6810743		2020-04-15	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085072/ERR4085072.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085076	SAMEA6810746		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085076/ERR4085076.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085077	SAMEA6810747		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085077/ERR4085077.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085078	SAMEA6810748		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085078/ERR4085078.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085079	SAMEA6810749		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085079/ERR4085079.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085081	SAMEA6810750		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085081/ERR4085081.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085083	SAMEA6810751		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085083/ERR4085083.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085084	SAMEA6810752		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085084/ERR4085084.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085088	SAMEA6810755		2020-04-18	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085088/ERR4085088.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085090	SAMEA6810757		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085090/ERR4085090.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085091	SAMEA6810758		2020-04-18	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085091/ERR4085091.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085092	SAMEA6810759		2020-04-18	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085092/ERR4085092.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085094	SAMEA6810761		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085094/ERR4085094.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085095	SAMEA6810762		2020-04-17	England	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085095/ERR4085095.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085124	SAMEA6810770		2020-03-29	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085124.sralite.1	AMPLICON	ILLUMINA
+ERR4085126	SAMEA6810771		2020-03-30	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos4/sra-pub-zq-1/ERR004/4085/ERR4085126/ERR4085126.lite.1	AMPLICON	OXFORD_NANOPORE
+ERR4085145	SAMEA6810775		2020-03-31	Scotland	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/ERR004/085/ERR4085145.sralite.1	AMPLICON	ILLUMINA
+SRR11704822	SAMN14829711	Children's Hospital of Los Angeles	2020-03-17	USA: California, Los Angeles	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/704/SRR11704822.sralite.1	AMPLICON	ILLUMINA
+SRR11704816	SAMN14829713	Children's Hospital of Los Angeles	2020-03-21	USA: California, Los Angeles	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/704/SRR11704816.sralite.1	AMPLICON	ILLUMINA
+SRR11704815	SAMN14829714	Children's Hospital of Los Angeles	2020-03-19	USA: California, Los Angeles	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/704/SRR11704815.sralite.1	AMPLICON	ILLUMINA
+SRR11704812	SAMN14829717	Children's Hospital of Los Angeles	2020-04-03	USA: California, Los Angeles	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/704/SRR11704812.sralite.1	AMPLICON	ILLUMINA
+SRR11704809	SAMN14829720	Children's Hospital of Los Angeles	2020-04-05	USA: California, Los Angeles	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/704/SRR11704809.sralite.1	AMPLICON	ILLUMINA
+SRR11607674	SAMN14692917	Utah Public Health Laboratory	2020-03-16	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/607/SRR11607674.sralite.1	AMPLICON	ILLUMINA
+SRR11607625	SAMN14692920	Utah Public Health Laboratory	2020-03-16	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11607/SRR11607625/SRR11607625.lite.2	AMPLICON	ILLUMINA
+SRR11607614	SAMN14692921	Utah Public Health Laboratory	2020-03-16	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/607/SRR11607614.sralite.1	AMPLICON	ILLUMINA
+SRR11607661	SAMN14692922	Utah Public Health Laboratory	2020-03-16	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11607/SRR11607661/SRR11607661.lite.2	AMPLICON	ILLUMINA
+SRR11607647	SAMN14692924	Utah Public Health Laboratory	2020-03-16	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/607/SRR11607647.sralite.1	AMPLICON	ILLUMINA
+SRR11607646	SAMN14692925	Utah Public Health Laboratory	2020-03-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/607/SRR11607646.sralite.1	AMPLICON	ILLUMINA
+SRR11607645	SAMN14692926	Utah Public Health Laboratory	2020-03-16	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/607/SRR11607645.sralite.1	AMPLICON	ILLUMINA
+SRR11607672	SAMN14692927	Utah Public Health Laboratory	2020-03-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos2/sra-pub-zq-20/SRR011/11607/SRR11607672/SRR11607672.lite.2	AMPLICON	ILLUMINA
+SRR11607644	SAMN14692929	Utah Public Health Laboratory	2020-03-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/607/SRR11607644.sralite.1	AMPLICON	ILLUMINA
+SRR11607642	SAMN14692931	Utah Public Health Laboratory	2020-03-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11607/SRR11607642/SRR11607642.lite.2	AMPLICON	ILLUMINA
+SRR11607641	SAMN14692932	Utah Public Health Laboratory	2020-03-16	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/607/SRR11607641.sralite.1	AMPLICON	ILLUMINA
+SRR11607640	SAMN14692933	Utah Public Health Laboratory	2020-03-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11607/SRR11607640/SRR11607640.lite.2	AMPLICON	ILLUMINA
+SRR11607639	SAMN14692934	Utah Public Health Laboratory	2020-03-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11607/SRR11607639/SRR11607639.lite.2	AMPLICON	ILLUMINA
+SRR11607638	SAMN14692935	Utah Public Health Laboratory	2020-03-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/607/SRR11607638.sralite.1	AMPLICON	ILLUMINA
+SRR11607637	SAMN14692936	Utah Public Health Laboratory	2020-03-17	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11607/SRR11607637/SRR11607637.lite.2	AMPLICON	ILLUMINA
+SRR11607635	SAMN14692937	Utah Public Health Laboratory	2020-03-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/607/SRR11607635.sralite.1	AMPLICON	ILLUMINA
+SRR11607634	SAMN14692938	Utah Public Health Laboratory	2020-03-14	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/607/SRR11607634.sralite.1	AMPLICON	ILLUMINA
+SRR11607633	SAMN14692939	Utah Public Health Laboratory	2020-03-14	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/607/SRR11607633.sralite.1	AMPLICON	ILLUMINA
+SRR11607632	SAMN14692940	Utah Public Health Laboratory	2020-03-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11607/SRR11607632/SRR11607632.lite.2	AMPLICON	ILLUMINA
+SRR11607662	SAMN14692966	Utah Public Health Laboratory	2020-04-02	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/607/SRR11607662.sralite.1	AMPLICON	ILLUMINA
+SRR11676328	SAMN14829638	Utah Public Health Laboratory	2020-03-14	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/676/SRR11676328.sralite.1	AMPLICON	ILLUMINA
+SRR11676316	SAMN14829640	Utah Public Health Laboratory	2020-03-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/676/SRR11676316.sralite.1	AMPLICON	ILLUMINA
+SRR11676305	SAMN14829641	Utah Public Health Laboratory	2020-03-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/676/SRR11676305.sralite.1	AMPLICON	ILLUMINA
+SRR11676294	SAMN14829642	Utah Public Health Laboratory	2020-03-14	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/676/SRR11676294.sralite.1	AMPLICON	ILLUMINA
+SRR11676283	SAMN14829643	Utah Public Health Laboratory	2020-03-12	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/676/SRR11676283.sralite.1	AMPLICON	ILLUMINA
+SRR11676275	SAMN14829644	Utah Public Health Laboratory	2020-03-12	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/676/SRR11676275.sralite.1	AMPLICON	ILLUMINA
+SRR11676274	SAMN14829645	Utah Public Health Laboratory	2020-03-12	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/676/SRR11676274.sralite.1	AMPLICON	ILLUMINA
+SRR11676273	SAMN14829646	Utah Public Health Laboratory	2020-03-12	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/676/SRR11676273.sralite.1	AMPLICON	ILLUMINA
+SRR11676326	SAMN14829648	Utah Public Health Laboratory	2020-03-29	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/676/SRR11676326/SRR11676326.sralite.1	AMPLICON	ILLUMINA
+SRR11676325	SAMN14829649	Utah Public Health Laboratory	2020-03-28	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/676/SRR11676325.sralite.1	AMPLICON	ILLUMINA
+SRR11676322	SAMN14829652	Utah Public Health Laboratory	2020-03-28	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/676/SRR11676322.sralite.1	AMPLICON	ILLUMINA
+SRR11676317	SAMN14829657	Utah Public Health Laboratory	2020-04-03	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/676/SRR11676317.sralite.1	AMPLICON	ILLUMINA
+SRR11676314	SAMN14829659	Utah Public Health Laboratory	2020-04-03	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/676/SRR11676314.sralite.1	AMPLICON	ILLUMINA
+SRR11676312	SAMN14829661	Utah Public Health Laboratory	2020-04-03	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/676/SRR11676312.sralite.1	AMPLICON	ILLUMINA
+SRR11676298	SAMN14829674	Utah Public Health Laboratory	2020-04-02	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/676/SRR11676298.sralite.1	AMPLICON	ILLUMINA
+SRR11676293	SAMN14829678	Utah Public Health Laboratory	2020-04-05	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/676/SRR11676293.sralite.1	AMPLICON	ILLUMINA
+SRR11676284	SAMN14829687	Utah Public Health Laboratory	2020-04-06	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/676/SRR11676284.sralite.1	AMPLICON	ILLUMINA
+SRR11676280	SAMN14829690	Utah Public Health Laboratory	2020-04-06	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/676/SRR11676280.sralite.1	AMPLICON	ILLUMINA
+SRR11676279	SAMN14829691	Utah Public Health Laboratory	2020-04-06	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/676/SRR11676279/SRR11676279.sralite.1	AMPLICON	ILLUMINA
+SRR11676278	SAMN14829692	Utah Public Health Laboratory	2020-04-05	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/676/SRR11676278.sralite.1	AMPLICON	ILLUMINA
+SRR11728652	SAMN14848640	Utah Public Health Laboratory	2020-04-07	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/728/SRR11728652.sralite.1	AMPLICON	ILLUMINA
+SRR11728651	SAMN14848641	Utah Public Health Laboratory	2020-04-07	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/728/SRR11728651/SRR11728651.sralite.1	AMPLICON	ILLUMINA
+SRR11728629	SAMN14848643	Utah Public Health Laboratory	2020-04-08	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/728/SRR11728629.sralite.1	AMPLICON	ILLUMINA
+SRR11728609	SAMN14848646	Utah Public Health Laboratory	2020-04-07	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/728/SRR11728609.sralite.1	AMPLICON	ILLUMINA
+SRR11728607	SAMN14848648	Utah Public Health Laboratory	2020-04-08	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/728/SRR11728607.sralite.1	AMPLICON	ILLUMINA
+SRR11728648	SAMN14848652	Utah Public Health Laboratory	2020-04-07	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/728/SRR11728648.sralite.1	AMPLICON	ILLUMINA
+SRR11728645	SAMN14848655	Utah Public Health Laboratory	2020-04-08	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/728/SRR11728645.sralite.1	AMPLICON	ILLUMINA
+SRR11728643	SAMN14848657	Utah Public Health Laboratory	2020-04-09	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/728/SRR11728643.sralite.1	AMPLICON	ILLUMINA
+SRR11728642	SAMN14848658	Utah Public Health Laboratory	2020-04-08	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/728/SRR11728642.sralite.1	AMPLICON	ILLUMINA
+SRR11728641	SAMN14848659	Utah Public Health Laboratory	2020-04-09	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/728/SRR11728641.sralite.1	AMPLICON	ILLUMINA
+SRR11728635	SAMN14848664	Utah Public Health Laboratory	2020-04-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/728/SRR11728635.sralite.1	AMPLICON	ILLUMINA
+SRR11728634	SAMN14848665	Utah Public Health Laboratory	2020-04-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/728/SRR11728634.sralite.1	AMPLICON	ILLUMINA
+SRR11728628	SAMN14848670	Utah Public Health Laboratory	2020-04-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/728/SRR11728628.sralite.1	AMPLICON	ILLUMINA
+SRR11728627	SAMN14848671	Utah Public Health Laboratory	2020-04-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/728/SRR11728627.sralite.1	AMPLICON	ILLUMINA
+SRR11728626	SAMN14848672	Utah Public Health Laboratory	2020-04-14	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/728/SRR11728626.sralite.1	AMPLICON	ILLUMINA
+SRR11728625	SAMN14848673	Utah Public Health Laboratory	2020-04-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/728/SRR11728625.sralite.1	AMPLICON	ILLUMINA
+SRR11728623	SAMN14848675	Utah Public Health Laboratory	2020-04-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/728/SRR11728623.sralite.1	AMPLICON	ILLUMINA
+SRR11728621	SAMN14848677	Utah Public Health Laboratory	2020-04-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/728/SRR11728621/SRR11728621.sralite.1	AMPLICON	ILLUMINA
+SRR11728617	SAMN14848680	Utah Public Health Laboratory	2020-04-14	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/728/SRR11728617.sralite.1	AMPLICON	ILLUMINA
+SRR11728615	SAMN14848682	Utah Public Health Laboratory	2020-04-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/728/SRR11728615.sralite.1	AMPLICON	ILLUMINA
+SRR11728612	SAMN14848685	Utah Public Health Laboratory	2020-04-15	USA	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/728/SRR11728612.sralite.1	AMPLICON	ILLUMINA
+SRR11578005	SAMN14641024	Royal Darwin Hospital Pathology	2020-03-20	Australia: Northern Territory	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578005.sralite.1	AMPLICON	ILLUMINA
+SRR11578346	SAMN14641025	Royal Darwin Hospital Pathology	2020-03-26	Australia: Northern Territory	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578346.sralite.1	AMPLICON	ILLUMINA
+SRR11578387	SAMN14641030	Royal Darwin Hospital Pathology	2020-03-24	Australia: Northern Territory	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578387.sralite.1	AMPLICON	ILLUMINA
+SRR11578386	SAMN14641031	Royal Darwin Hospital Pathology	2020-03-24	Australia: Northern Territory	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578386.sralite.1	AMPLICON	ILLUMINA
+SRR11622192	SAMN14750942	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622192.sralite.1	AMPLICON	ILLUMINA
+SRR11622159	SAMN14750945	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622159.sralite.1	AMPLICON	ILLUMINA
+SRR11622114	SAMN14750947	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622114.sralite.1	AMPLICON	ILLUMINA
+SRR11622012	SAMN14750972	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-03	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622012.sralite.1	AMPLICON	ILLUMINA
+SRR11622119	SAMN14750984	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-03	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/622/SRR11622119.sralite.1	AMPLICON	ILLUMINA
+SRR11622221	SAMN14750995	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-06	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622221.sralite.1	AMPLICON	ILLUMINA
+SRR11622201	SAMN14750998	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-06	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622201.sralite.1	AMPLICON	ILLUMINA
+SRR11622210	SAMN14751004	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-07	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622210.sralite.1	AMPLICON	ILLUMINA
+SRR11622213	SAMN14751007	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-07	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622213.sralite.1	AMPLICON	ILLUMINA
+SRR11622208	SAMN14751010	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-07	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622208.sralite.1	AMPLICON	ILLUMINA
+SRR11622228	SAMN14751014	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-07	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/622/SRR11622228.sralite.1	AMPLICON	ILLUMINA
+SRR11622205	SAMN14751021	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-08	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622205.sralite.1	AMPLICON	ILLUMINA
+SRR11622189	SAMN14751023	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-08	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622189.sralite.1	AMPLICON	ILLUMINA
+SRR11622207	SAMN14751024	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-08	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622207.sralite.1	AMPLICON	ILLUMINA
+SRR11622191	SAMN14751029	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-08	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622191.sralite.1	AMPLICON	ILLUMINA
+SRR11622187	SAMN14751032	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-08	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622187.sralite.1	AMPLICON	ILLUMINA
+SRR11622185	SAMN14751034	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-08	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622185.sralite.1	AMPLICON	ILLUMINA
+SRR11622183	SAMN14751036	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-08	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622183.sralite.1	AMPLICON	ILLUMINA
+SRR11622174	SAMN14751040	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-09	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622174.sralite.1	AMPLICON	ILLUMINA
+SRR11622200	SAMN14751041	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-09	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622200.sralite.1	AMPLICON	ILLUMINA
+SRR11622196	SAMN14751042	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-09	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622196.sralite.1	AMPLICON	ILLUMINA
+SRR11622194	SAMN14751043	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-09	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622194.sralite.1	AMPLICON	ILLUMINA
+SRR11622180	SAMN14751046	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-09	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622180.sralite.1	AMPLICON	ILLUMINA
+SRR11622179	SAMN14751047	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-09	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622179.sralite.1	AMPLICON	ILLUMINA
+SRR11622175	SAMN14751050	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-10	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622175.sralite.1	AMPLICON	ILLUMINA
+SRR11622173	SAMN14751051	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-10	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/622/SRR11622173.sralite.1	AMPLICON	ILLUMINA
+SRR11622165	SAMN14751053	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-10	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622165.sralite.1	AMPLICON	ILLUMINA
+SRR11622111	SAMN14751054	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-10	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622111.sralite.1	AMPLICON	ILLUMINA
+SRR11622169	SAMN14751056	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-11	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622169.sralite.1	AMPLICON	ILLUMINA
+SRR11622167	SAMN14751058	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-11	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622167.sralite.1	AMPLICON	ILLUMINA
+SRR11622053	SAMN14751063	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622053.sralite.1	AMPLICON	ILLUMINA
+SRR11622055	SAMN14751073	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-01	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622055.sralite.1	AMPLICON	ILLUMINA
+SRR11622043	SAMN14751077	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-01	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622043.sralite.1	AMPLICON	ILLUMINA
+SRR11622035	SAMN14751085	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-02	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622035.sralite.1	AMPLICON	ILLUMINA
+SRR11578292	SAMN14641034	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-17	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578292.sralite.1	AMPLICON	ILLUMINA
+SRR11578291	SAMN14641035	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-17	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578291.sralite.1	AMPLICON	ILLUMINA
+SRR11578013	SAMN14641036	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-17	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578013.sralite.1	AMPLICON	ILLUMINA
+SRR11578336	SAMN14641038	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-18	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578336.sralite.1	AMPLICON	ILLUMINA
+SRR11578010	SAMN14641043	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-20	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578010.sralite.1	AMPLICON	ILLUMINA
+SRR11578290	SAMN14641046	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-20	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578290.sralite.1	AMPLICON	ILLUMINA
+SRR11578185	SAMN14641049	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-20	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578185.sralite.1	AMPLICON	ILLUMINA
+SRR11578163	SAMN14641051	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-20	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578163.sralite.1	AMPLICON	ILLUMINA
+SRR11578152	SAMN14641052	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-20	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578152.sralite.1	AMPLICON	ILLUMINA
+SRR11578057	SAMN14641054	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-20	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578057.sralite.1	AMPLICON	ILLUMINA
+SRR11577963	SAMN14641056	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-20	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577963.sralite.1	AMPLICON	ILLUMINA
+SRR11578012	SAMN14641057	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-20	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578012.sralite.1	AMPLICON	ILLUMINA
+SRR11622108	SAMN14751099	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-08	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622108.sralite.1	AMPLICON	ILLUMINA
+SRR11622069	SAMN14751103	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-09	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622069.sralite.1	AMPLICON	ILLUMINA
+SRR11622068	SAMN14751104	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-09	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622068.sralite.1	AMPLICON	ILLUMINA
+SRR11622067	SAMN14751105	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-09	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622067.sralite.1	AMPLICON	ILLUMINA
+SRR11622105	SAMN14751107	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-10	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622105.sralite.1	AMPLICON	ILLUMINA
+SRR11622104	SAMN14751108	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-10	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622104.sralite.1	AMPLICON	ILLUMINA
+SRR11622076	SAMN14751111	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-10	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622076.sralite.1	AMPLICON	ILLUMINA
+SRR11622102	SAMN14751113	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-11	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622102.sralite.1	AMPLICON	ILLUMINA
+SRR11622093	SAMN14751115	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-11	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622093.sralite.1	AMPLICON	ILLUMINA
+SRR11622082	SAMN14751118	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-11	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622082.sralite.1	AMPLICON	ILLUMINA
+SRR11622100	SAMN14751130	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-14	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622100.sralite.1	AMPLICON	ILLUMINA
+SRR11622099	SAMN14751131	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-14	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622099.sralite.1	AMPLICON	ILLUMINA
+SRR11622085	SAMN14751132	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-14	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622085.sralite.1	AMPLICON	ILLUMINA
+SRR11622065	SAMN14751134	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-17	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622065.sralite.1	AMPLICON	ILLUMINA
+SRR11622064	SAMN14751135	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-12	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622064.sralite.1	AMPLICON	ILLUMINA
+SRR11622063	SAMN14751136	Microbiological Diagnostic Unit Public Health Laboratory	2020-04-12	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622063.sralite.1	AMPLICON	ILLUMINA
+SRR11622155	SAMN14751137	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-09	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622155.sralite.1	AMPLICON	ILLUMINA
+SRR11695901	SAMN14838982	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-07	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/695/SRR11695901.sralite.1	AMPLICON	ILLUMINA
+SRR11695897	SAMN14838986	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-10	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/695/SRR11695897/SRR11695897.sralite.1	AMPLICON	ILLUMINA
+SRR11695906	SAMN14838988	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-10	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/695/SRR11695906.sralite.1	AMPLICON	ILLUMINA
+SRR11695914	SAMN14838990	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-11	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/695/SRR11695914.sralite.1	AMPLICON	ILLUMINA
+SRR11695896	SAMN14838996	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-12	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/695/SRR11695896.sralite.1	AMPLICON	ILLUMINA
+SRR11695899	SAMN14839000	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-13	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/695/SRR11695899.sralite.1	AMPLICON	ILLUMINA
+SRR11695913	SAMN14839001	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-13	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/695/SRR11695913.sralite.1	AMPLICON	ILLUMINA
+SRR11695894	SAMN14839002	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-14	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/695/SRR11695894.sralite.1	AMPLICON	ILLUMINA
+SRR11577940	SAMN14641059	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-21	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577940.sralite.1	AMPLICON	ILLUMINA
+SRR11577929	SAMN14641060	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-21	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577929.sralite.1	AMPLICON	ILLUMINA
+SRR11577918	SAMN14641061	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-21	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577918.sralite.1	AMPLICON	ILLUMINA
+SRR11577979	SAMN14641062	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-21	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577979.sralite.1	AMPLICON	ILLUMINA
+SRR11577968	SAMN14641063	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-21	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577968.sralite.1	AMPLICON	ILLUMINA
+SRR11577839	SAMN14641067	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577839.sralite.1	AMPLICON	ILLUMINA
+SRR11578395	SAMN14641068	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578395.sralite.1	AMPLICON	ILLUMINA
+SRR11578324	SAMN14641070	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578324.sralite.1	AMPLICON	ILLUMINA
+SRR11578036	SAMN14641073	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578036.sralite.1	AMPLICON	ILLUMINA
+SRR11578099	SAMN14641074	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578099.sralite.1	AMPLICON	ILLUMINA
+SRR11578088	SAMN14641075	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578088.sralite.1	AMPLICON	ILLUMINA
+SRR11578356	SAMN14641076	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578356.sralite.1	AMPLICON	ILLUMINA
+SRR11578344	SAMN14641077	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578344.sralite.1	AMPLICON	ILLUMINA
+SRR11578370	SAMN14641079	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578370.sralite.1	AMPLICON	ILLUMINA
+SRR11578200	SAMN14641083	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/578/SRR11578200/SRR11578200.sralite.1	AMPLICON	ILLUMINA
+SRR11578014	SAMN14641087	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-23	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578014.sralite.1	AMPLICON	ILLUMINA
+SRR11578198	SAMN14641092	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-23	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578198.sralite.1	AMPLICON	ILLUMINA
+SRR11578195	SAMN14641094	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-23	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578195.sralite.1	AMPLICON	ILLUMINA
+SRR11577885	SAMN14641096	Microbiological Diagnostic Unit Public Health Laboratory	2020-03-23	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577885.sralite.1	AMPLICON	ILLUMINA
+SRR11578009	SAMN14641097	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-24	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578009.sralite.1	AMPLICON	ILLUMINA
+SRR11578002	SAMN14641110	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-24	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578002.sralite.1	AMPLICON	ILLUMINA
+SRR11577964	SAMN14641111	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577964.sralite.1	AMPLICON	ILLUMINA
+SRR11577942	SAMN14641130	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577942.sralite.1	AMPLICON	ILLUMINA
+SRR11577921	SAMN14641145	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-27	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577921.sralite.1	AMPLICON	ILLUMINA
+SRR11577981	SAMN14641156	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577981.sralite.1	AMPLICON	ILLUMINA
+SRR11577977	SAMN14641159	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577977.sralite.1	AMPLICON	ILLUMINA
+SRR11577974	SAMN14641162	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-27	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577974.sralite.1	AMPLICON	ILLUMINA
+SRR11577868	SAMN14641169	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-27	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577868.sralite.1	AMPLICON	ILLUMINA
+SRR11577867	SAMN14641170	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577867.sralite.1	AMPLICON	ILLUMINA
+SRR11577864	SAMN14641173	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-26	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577864.sralite.1	AMPLICON	ILLUMINA
+SRR11578315	SAMN14641188	Microbiological Diagnostic Unit Public Health Laboratory	2020-03-29	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578315.sralite.1	AMPLICON	ILLUMINA
+SRR11578062	SAMN14641197	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-23	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578062.sralite.1	AMPLICON	ILLUMINA
+SRR11577906	SAMN14641198	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-24	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577906.sralite.1	AMPLICON	ILLUMINA
+SRR11578003	SAMN14641199	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-24	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578003.sralite.1	AMPLICON	ILLUMINA
+SRR11577997	SAMN14641200	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-14	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577997.sralite.1	AMPLICON	ILLUMINA
+SRR11578143	SAMN14641208	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578143.sralite.1	AMPLICON	ILLUMINA
+SRR11578142	SAMN14641209	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-23	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578142.sralite.1	AMPLICON	ILLUMINA
+SRR11578241	SAMN14641218	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-23	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578241.sralite.1	AMPLICON	ILLUMINA
+SRR11578236	SAMN14641223	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-24	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578236.sralite.1	AMPLICON	ILLUMINA
+SRR11578229	SAMN14641228	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-23	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578229.sralite.1	AMPLICON	ILLUMINA
+SRR11578225	SAMN14641232	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-24	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578225.sralite.1	AMPLICON	ILLUMINA
+SRR11578224	SAMN14641233	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-24	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578224.sralite.1	AMPLICON	ILLUMINA
+SRR11578192	SAMN14641236	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-24	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578192.sralite.1	AMPLICON	ILLUMINA
+SRR11578188	SAMN14641239	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578188.sralite.1	AMPLICON	ILLUMINA
+SRR11578178	SAMN14641248	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578178.sralite.1	AMPLICON	ILLUMINA
+SRR11578171	SAMN14641254	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-24	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578171.sralite.1	AMPLICON	ILLUMINA
+SRR11578170	SAMN14641255	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578170.sralite.1	AMPLICON	ILLUMINA
+SRR11578162	SAMN14641261	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578162.sralite.1	AMPLICON	ILLUMINA
+SRR11578159	SAMN14641264	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578159.sralite.1	AMPLICON	ILLUMINA
+SRR11578150	SAMN14641269	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-26	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578150.sralite.1	AMPLICON	ILLUMINA
+SRR11578148	SAMN14641271	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-26	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578148.sralite.1	AMPLICON	ILLUMINA
+SRR11578056	SAMN14641278	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-25	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578056.sralite.1	AMPLICON	ILLUMINA
+SRR11578051	SAMN14641283	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-21	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578051.sralite.1	AMPLICON	ILLUMINA
+SRR11578049	SAMN14641285	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578049.sralite.1	AMPLICON	ILLUMINA
+SRR11578048	SAMN14641286	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-22	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578048.sralite.1	AMPLICON	ILLUMINA
+SRR11577862	SAMN14641295	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-26	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577862.sralite.1	AMPLICON	ILLUMINA
+SRR11577855	SAMN14641301	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-27	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577855.sralite.1	AMPLICON	ILLUMINA
+SRR11577854	SAMN14641302	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-27	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577854.sralite.1	AMPLICON	ILLUMINA
+SRR11577844	SAMN14641310	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-26	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577844.sralite.1	AMPLICON	ILLUMINA
+SRR11577835	SAMN14641316	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-29	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577835.sralite.1	AMPLICON	ILLUMINA
+SRR11578391	SAMN14641334	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-29	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578391.sralite.1	AMPLICON	ILLUMINA
+SRR11578331	SAMN14641344	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-28	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578331.sralite.1	AMPLICON	ILLUMINA
+SRR11578326	SAMN14641348	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-28	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578326.sralite.1	AMPLICON	ILLUMINA
+SRR11578325	SAMN14641349	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-28	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578325.sralite.1	AMPLICON	ILLUMINA
+SRR11578322	SAMN14641351	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-28	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578322.sralite.1	AMPLICON	ILLUMINA
+SRR11578110	SAMN14641375	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-29	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578110.sralite.1	AMPLICON	ILLUMINA
+SRR11578034	SAMN14641378	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-29	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578034.sralite.1	AMPLICON	ILLUMINA
+SRR11578031	SAMN14641381	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-27	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578031.sralite.1	AMPLICON	ILLUMINA
+SRR11578023	SAMN14641385	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-28	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578023.sralite.1	AMPLICON	ILLUMINA
+SRR11578019	SAMN14641388	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-28	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578019.sralite.1	AMPLICON	ILLUMINA
+SRR11577951	SAMN14641390	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-21	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577951.sralite.1	AMPLICON	ILLUMINA
+SRR11578106	SAMN14641396	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-29	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578106.sralite.1	AMPLICON	ILLUMINA
+SRR11578103	SAMN14641399	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-29	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578103.sralite.1	AMPLICON	ILLUMINA
+SRR11578096	SAMN14641405	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-27	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578096.sralite.1	AMPLICON	ILLUMINA
+SRR11578363	SAMN14641416	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-30	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578363.sralite.1	AMPLICON	ILLUMINA
+SRR11578371	SAMN14641436	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-30	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578371.sralite.1	AMPLICON	ILLUMINA
+SRR11578367	SAMN14641437	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-30	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578367.sralite.1	AMPLICON	ILLUMINA
+SRR11578288	SAMN14641439	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578288.sralite.1	AMPLICON	ILLUMINA
+SRR11578112	SAMN14641440	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-30	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578112.sralite.1	AMPLICON	ILLUMINA
+SRR11578018	SAMN14641441	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-30	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578018.sralite.1	AMPLICON	ILLUMINA
+SRR11578378	SAMN14641446	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-29	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578378.sralite.1	AMPLICON	ILLUMINA
+SRR11578377	SAMN14641447	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-29	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578377.sralite.1	AMPLICON	ILLUMINA
+SRR11578287	SAMN14641448	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-18	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578287.sralite.1	AMPLICON	ILLUMINA
+SRR11578282	SAMN14641452	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-18	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578282.sralite.1	AMPLICON	ILLUMINA
+SRR11578281	SAMN14641453	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-18	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578281.sralite.1	AMPLICON	ILLUMINA
+SRR11578274	SAMN14641460	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578274.sralite.1	AMPLICON	ILLUMINA
+SRR11578302	SAMN14641470	Microbiological Diagnostic Unit Public Health Laboratory	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578302.sralite.1	AMPLICON	ILLUMINA
+SRR11578300	SAMN14641472	Microbiological Diagnostic Unit Public Health Laboratory	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578300.sralite.1	AMPLICON	ILLUMINA
+SRR11578299	SAMN14641473	Microbiological Diagnostic Unit Public Health Laboratory	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578299.sralite.1	AMPLICON	ILLUMINA
+SRR11578295	SAMN14641476	Microbiological Diagnostic Unit Public Health Laboratory	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578295.sralite.1	AMPLICON	ILLUMINA
+SRR11577892	SAMN14641487	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-16	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577892.sralite.1	AMPLICON	ILLUMINA
+SRR11578257	SAMN14641500	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-03	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578257.sralite.1	AMPLICON	ILLUMINA
+SRR11578080	SAMN14641503	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-03	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578080.sralite.1	AMPLICON	ILLUMINA
+SRR11578072	SAMN14641506	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-03	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578072.sralite.1	AMPLICON	ILLUMINA
+SRR11577886	SAMN14641507	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-03	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577886.sralite.1	AMPLICON	ILLUMINA
+SRR11578255	SAMN14641516	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-04	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578255.sralite.1	AMPLICON	ILLUMINA
+SRR11578252	SAMN14641519	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-04	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578252.sralite.1	AMPLICON	ILLUMINA
+SRR11578081	SAMN14641524	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-04	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578081.sralite.1	AMPLICON	ILLUMINA
+SRR11578266	SAMN14641532	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-05	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578266.sralite.1	AMPLICON	ILLUMINA
+SRR11578264	SAMN14641533	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-05	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578264.sralite.1	AMPLICON	ILLUMINA
+SRR11578069	SAMN14641542	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-05	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578069.sralite.1	AMPLICON	ILLUMINA
+SRR11577913	SAMN14641552	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-06	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577913.sralite.1	AMPLICON	ILLUMINA
+SRR11577911	SAMN14641554	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-06	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577911.sralite.1	AMPLICON	ILLUMINA
+SRR11577910	SAMN14641555	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-06	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577910.sralite.1	AMPLICON	ILLUMINA
+SRR11648056	SAMN14603684	Yale Clinical Virology Laboratory	2020-03-11	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11648/SRR11648056/SRR11648056.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648055	SAMN14603685	Yale Clinical Virology Laboratory	2020-03-19	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-14/SRR011/11648/SRR11648055/SRR11648055.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648011	SAMN14603689	Yale Clinical Virology Laboratory	2020-03-19	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11648/SRR11648011/SRR11648011.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11647999	SAMN14603691	Yale Clinical Virology Laboratory	2020-03-19	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11647/SRR11647999/SRR11647999.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11647998	SAMN14603692	Yale Clinical Virology Laboratory	2020-03-19	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/647/SRR11647998/SRR11647998.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648052	SAMN14603696	Yale Clinical Virology Laboratory	2020-03-18	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11648/SRR11648052/SRR11648052.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648048	SAMN14603700	Yale Clinical Virology Laboratory	2020-03-18	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11648/SRR11648048/SRR11648048.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648047	SAMN14603701	Yale Clinical Virology Laboratory	2020-03-18	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/648/SRR11648047/SRR11648047.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11577904	SAMN14641559	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-06	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577904.sralite.1	AMPLICON	ILLUMINA
+SRR11577901	SAMN14641562	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-06	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/577/SRR11577901.sralite.1	AMPLICON	ILLUMINA
+SRR11577888	SAMN14641566	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-04-06	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/577/SRR11577888.sralite.1	AMPLICON	ILLUMINA
+SRR11578191	SAMN14641574	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-24	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578191.sralite.1	AMPLICON	ILLUMINA
+SRR11578327	SAMN14641581	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-28	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/578/SRR11578327.sralite.1	AMPLICON	ILLUMINA
+SRR11578376	SAMN14641585	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-30	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578376.sralite.1	AMPLICON	ILLUMINA
+SRR11578375	SAMN14641586	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-30	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/578/SRR11578375.sralite.1	AMPLICON	ILLUMINA
+SRR11622153	SAMN14751144	Microbiological Diagnostic Unit Public Health Laboratory	2020-03-26	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/622/SRR11622153.sralite.1	AMPLICON	ILLUMINA
+SRR11622141	SAMN14751153	Microbiological Diagnostic Unit Public Health Laboratory	2020-03-27	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622141.sralite.1	AMPLICON	ILLUMINA
+SRR11622006	SAMN14751170	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-30	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622006.sralite.1	AMPLICON	ILLUMINA
+SRR11622005	SAMN14751176	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/622/SRR11622005.sralite.1	AMPLICON	ILLUMINA
+SRR11622036	SAMN14751180	Victorian Infectious Diseases Reference Laboratory (VIDRL)	2020-03-31	Australia: Victoria	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/622/SRR11622036/SRR11622036.sralite.1	AMPLICON	ILLUMINA
+SRR11667146	SAMN14814606	Center of Scientific Excellence for Influenza Viruses,National Research Centre (NRC), Egypt.	2020-03-18	Egypt	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/667/SRR11667146.sralite.1	AMPLICON	ILLUMINA
+SRR11648054	SAMN14603694	Yale Clinical Virology Laboratory	2020-03-18	USA: New York	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11648/SRR11648054/SRR11648054.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648051	SAMN14603697	Yale Clinical Virology Laboratory	2020-03-19	USA: New York	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11648/SRR11648051/SRR11648051.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648050	SAMN14603698	Yale Clinical Virology Laboratory	2020-03-19	USA: New York	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11648/SRR11648050/SRR11648050.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648046	SAMN14603702	Yale Clinical Virology Laboratory	2020-03-17	USA: New York	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11648/SRR11648046/SRR11648046.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648042	SAMN14603705	Yale Clinical Virology Laboratory	2020-03-18	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11648/SRR11648042/SRR11648042.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648041	SAMN14603706	Yale Clinical Virology Laboratory	2020-03-15	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11648/SRR11648041/SRR11648041.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648040	SAMN14603707	Yale Clinical Virology Laboratory	2020-03-18	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/648/SRR11648040/SRR11648040.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648039	SAMN14603708	Yale Clinical Virology Laboratory	2020-03-16	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11648/SRR11648039/SRR11648039.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648038	SAMN14603709	Yale Clinical Virology Laboratory	2020-03-16	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-11/SRR011/648/SRR11648038/SRR11648038.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648037	SAMN14603710	Yale Clinical Virology Laboratory	2020-03-17	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11648/SRR11648037/SRR11648037.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648036	SAMN14603711	Yale Clinical Virology Laboratory	2020-03-17	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-24/SRR011/11648/SRR11648036/SRR11648036.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648035	SAMN14603712	Yale Clinical Virology Laboratory	2020-03-13	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11648/SRR11648035/SRR11648035.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648032	SAMN14603714	Yale Clinical Virology Laboratory	2020-03-19	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11648/SRR11648032/SRR11648032.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648028	SAMN14603718	Yale COVID-19 Biorepository	2020-03-23	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-zq-22/SRR011/11648/SRR11648028/SRR11648028.lite.1	AMPLICON	OXFORD_NANOPORE
+SRR11648023	SAMN14603723	Yale COVID-19 Biorepository	2020-03-30	USA: Connecticut	https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos5/sra-pub-zq-16/SRR011/11648/SRR11648023/SRR11648023.lite.1	AMPLICON	OXFORD_NANOPORE
