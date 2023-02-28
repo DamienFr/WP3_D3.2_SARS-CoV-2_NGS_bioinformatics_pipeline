@@ -91,7 +91,7 @@ Building a maximum likelihood phylogenetic tree on the masked alignment using th
 `augur tree --alignment total_aligned.mask.aln --method raxml --nthreads auto --output raxml.tree`
 
 
-**########## 4. Phylogenetics reconstruction using R ##########**
+**########## 5. Phylogenetics reconstruction using R ##########**
 
 This section is a modified version of Lucy van Dorp's SARS-CoV-2 Phylogenomics Practical
 
@@ -375,7 +375,7 @@ To sum up, we have been able to:
 * Read in, root and plot a phylogenetic tree
 * Perform a simple phylogenetic tip-dating analysis
 
-#Extensions
+### Extensions
 
 The commands used should all be quite portable and flexible. If you're interested, I encourage you to try them for yourself with variations. 
 
