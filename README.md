@@ -70,12 +70,12 @@ and those of Nanopore data are in
 
 All sequences are aligned against the Wuhan-Hu-1 reference sequence (EPI_ISL_402125, available on NCBI here: https://www.ncbi.nlm.nih.gov/search/all/?term=wuhan-hu-1), the first genome assembly published from the pandemic using the multi-sequence alignment tool MAFFT implemented via the AUGUR pipeline (https://github.com/nextstrain/augur).
 
-    cat EPI_ISL_402125.fasta > total.aln
-    cat ./output_ILLUMINA_AMPLICON/variants/ivar/consensus/ivar/*.consensus.fa >> total.aln
-    cat ./output_NANOPORE_AMPLICON/*.consensus.fasta >> total.aln
+    cat EPI_ISL_402125.fasta > ./data/total.aln
+    cat ./output_ILLUMINA_AMPLICON/variants/ivar/consensus/ivar/*.consensus.fa >> ./data/total.aln
+    cat ./output_NANOPORE_AMPLICON/*.consensus.fasta >> ./data/total.aln
 
 
-    augur align --sequences total.aln --reference-name 'EPI_ISL_402125' --fill-gaps --output total_aligned.aln --nthreads 8
+    augur align --sequences ./data/total.aln --reference-name 'EPI_ISL_402125' --fill-gaps --output ./data/total_aligned.aln --nthreads 8
 
 The beginning and ends of alignments can often be noisy. Hence we mask the first 55 and last 100 positions of the alignment. Sites flagged as possible sequencing errors have been masked with an 'N' position. An up to date list is available at https://raw.githubusercontent.com/W-L/ProblematicSites_SARS-CoV2/master/problematic_sites_sarsCov2.vcf
 
@@ -89,7 +89,7 @@ You can read more about potential sequencing errors in SARS-CoV-2 genomes here: 
 
 Building a maximum likelihood phylogenetic tree on the masked alignment using the tree builder RaxML (https://cme.h-its.org/exelixis/web/software/raxml/) again implemented via the AUGUR pipeline.
 
-`augur tree --alignment total_aligned.mask.aln --method raxml --nthreads auto --output raxml.tree`
+`augur tree --alignment ./data/total_aligned.mask.aln --method raxml --nthreads auto --output ./data/raxml.tree`
 
 
 **########## 5. Phylogenetics reconstruction using R ##########**
@@ -246,6 +246,35 @@ R efficiently stores this tree as a `phylo format` object. You can this tree has
 head(mltree$tip.label)
 ```   
 
+### Excluding low-quality data
+
+Real sequencing datasets are often not perfect, so it's important to check if some sequences are of very low quality and exclude them.
+Here, we chose to exclude all the genomes that display a proportion of missing sites > 20%
+
+```
+\# We start by creating an object that will receive the identifiers of the sequences we want to keep
+list_of_high_quality_seqs <- c()
+
+\# and we run a loop on each sequence to check whether it has >20% N (missing data) or not and if not we store its identifier
+for(i in seq(nrow(sequences))) {
+  # Get prop. of Ns
+  #i <- 1
+  prop.Ns <- base.freq(sequences[i,], all = TRUE)[["n"]]
+  if(prop.Ns < 0.2) {
+    list_of_high_quality_seqs <- c(list_of_high_quality_seqs, rownames(sequences[i,]))
+  }
+}
+
+\# We create a subsampled dataset including only the high quality sequences
+sequences_high_qual <- sequences[list_of_high_quality_seqs,]
+
+\# and we also subsample the tree so that it doesn't contain the low quality samples anymore.
+mltree_pruned <- drop.tip(mltree, mltree$tip.label[! mltree$tip.label %in% rownames(sequences_high_qual)] )
+
+```
+
+### Rooting the phylogenetic tree
+
 It is important to root phylogenetic trees so as to orientate the topology. This is particularly relevant for phylogenetic dating which relies on **root-to-tip distances** to compute temporal signal. Typically we would use a phylogenetic `out-group`. This is a genome sequence which is known to be distant from all samples in the tree but not too distant so as to not share large parts of the alignment.
   
 However, for SARS-CoV-2 there remains no appropriate out-group genome.
@@ -286,16 +315,17 @@ tiplabels(pch=20,col=col.vec,frame='none')
 
 Many uncertainties surround the age of SARS-CoV-2. Using genomic datasets we can estimate the **time to the most recent common ancestor (tMRCA)** of the sequences we include in our alignment.
 
-First we need to obtain the sampling dates of all of the samples in our alignment. We can do this by querying the metadata dataframe for the variable collection date (`meta$Collection.Date`), which we store as a variable `date.vec`:
+First we need to obtain the sampling dates of all of the samples in our alignment. We can do this by querying the metadata dataframe for the variable collection date (`meta$Date`), which we store as a variable `date.vec`:
   
 ```{r date_1}
-date.vec <- meta$Date
+date.vec <- meta$Date[match(mltree.root$tip.label,meta$SRA_Run)]
+
 ```
 
 We already stored the collection dates as `date.vec` but most tools can not read dates in this format. We therefore convert calender dates to decimal dates. There is a useful package for doing this called `lubridate` in R. Note that sometimes date entires are entered wrong - often months and days are flipped - it is important to check this carefully.
 
 ```{r date_3}
-date.dec.vec <- decimal_date(as.Date(date.vec,'%Y/%m/%d'))
+date.dec.vec <- decimal_date(as.Date(date.vec,'%Y-%m-%d'))
 names(date.dec.vec) <- mltree.root$tip.label
 ```
 
