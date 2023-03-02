@@ -306,7 +306,7 @@ plot(mltree.root,show.tip.label=FALSE)
 tiplabels(pch=20,col=col.vec,frame='none')
 ```
 
-
+Even at this early stage of the pandemic there is not much in the way of geographic structure. What does this mean? 
 * the early pandemic first wave demonstrates that many samples from world-wide regions can be found across the global phylogenetic tree.
 * you can think of the SARS-CoV-2 population as panmictic - any sample can represent any geographic region
 * this is consistent with many introductions of the virus to many geographic regions at multiple times meaning there is no one patient zero.
@@ -352,9 +352,9 @@ Before interpreting the results lets check we have meaningful temporal signal in
 rootToTipRegressionPlot(dtr)
 ```
 
-Our regression has a p-value of <1e-18. 
+Our regression has a p-value of <1e-6. 
 
-
+The p-value of the temporal regression is highly significant. What does this mean? 
 * the regression analysis supports measurably evolution over the time-span of our dataset
 * temporal signal is often not this strong due to eg. noisy alignments, erroneous SNP calls, and (more likely) the effect of recombination and/or structural variants
 * note there is now good evidence for recombination in SARS-CoV-2 which is in line with the behaviour of other coronaviruses.
