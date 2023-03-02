@@ -142,7 +142,7 @@ setwd("/home/folder_of_your_choice/")
 We will then read in the fasta format alignment:
 
 ```{r align}
-sequences <- read.dna('./data/total_aligned.mask.aln',format='fasta')
+sequences <- read.dna('./data/07.total_high_qual.aln',format='fasta')
 ```
 
 Some explanation of the above code: 
@@ -180,7 +180,7 @@ We can also ask how many positions in the alignment vary - the single nucleotide
 length(seg.sites(sequences))
 ```
 
-This tells us the number of positions in the 29903 base pair alignment vary in at least one of the included sequences. In fact in this alignment the median SNP difference between any two assemblies is **only four mutations**. Remember even today SARS-CoV-2 is a young and genetically homogenous virus.
+This tells us the number of positions in the 29903 base pair alignment vary in at least one of the included sequences. In fact in this alignment the mean SNP difference between any two assemblies is **only 8 mutations**. Remember even today SARS-CoV-2 is a young and genetically homogenous virus.
 
 Storing the alignment like this also allows us to query any particular position. 
 
@@ -195,8 +195,8 @@ Some explanation of the above code:
 * `sequences[,23403`] queries this position in the DNAbin object (our alignment).
 * `freq=T` is an argument to `base.freq()` which requests the absolute counts of A, C, G and T in the alignment to be returned (rather than their proportions)
 
-* 532 of the genomes have an `a` at this position (the ancestral type). 
-* 228 genomes have a `g` at the position, which correponds to the nonsynonymous change to 614G. * This corresponds to ~30% of the included genomes carrying the mutation.
+* 140 of the genomes have an `a` at this position (the ancestral type). 
+* 452 genomes have a `g` at the position, which correponds to the nonsynonymous change to 614G. * This corresponds to ~30% of the included genomes carrying the mutation.
 </details>
 
 Now the frequency of D614G is essentially fixed. This is likely due to a combination of founder introductions of viruses carrying this mutation and the functional impact of this mutation in modulating transmissibility.
@@ -209,7 +209,7 @@ We can read the metadata table into R to see where the samples come from and use
 A common data format is **t**ab **s**eperated **v**alue (.tsv) format because it can both be opened in Excel but also easily read by different programming languages in R. We can read in tab separated files using the `read.delim()` function in R: 
 
 ```{r read_meta}
-meta <- read.delim("./data/Table_1_metadata.tsv",header=T,sep='\t',as.is=T)
+meta <- read.delim("Table_1_metadata.tsv",header=T,sep='\t',as.is=T)
 ```
 
 Some explanation of the above code: 
@@ -245,7 +245,7 @@ We will next use the Ape package from R to read in a maximum likelihood (ML) phy
 We can do this using the function `read.tree()`:
   
 ```{r read_tree}
-mltree <- read.tree("./data/raxml.tree")
+mltree <- read.tree("./data/08.raxml.tree")
 ```
   
 This is now stored as a tree object. Lets see what it looks like:
@@ -262,30 +262,20 @@ head(mltree$tip.label)
 
 ### Excluding low-quality data
 
-Real sequencing datasets are often not perfect, so it's important to check if some sequences are of very low quality and exclude them.
-Here, we chose to exclude all the genomes that display a proportion of missing sites > 20%
+Real sequencing datasets are often not perfect, so it's important to check the quality of the sequences. In this case they have been prefiltered before starting the R analysis in order to be able to create the phylogenetic tree, but this is still worth a look.
+are of very low quality and exclude them.
 
 ```
-# We start by creating an object that will receive the identifiers of the sequences we want to keep
-list_of_high_quality_seqs <- c()
+# We start by creating an object that will receive the identifiers and the number of N of each sequence
+quality_of_seqs <- data.frame(ncol=2,nrow=nrow(sequences))
 
-# and we run a loop on each sequence to check whether it has >20% N (missing data) or not
-# and if not we store its identifier
+# and we run a loop on each sequence to compute its proportion of N
 for(i in seq(nrow(sequences))) {
   # Get prop. of Ns
-  #i <- 1
   prop.Ns <- base.freq(sequences[i,], all = TRUE)[["n"]]
-  if(prop.Ns < 0.2) {
-    list_of_high_quality_seqs <- c(list_of_high_quality_seqs, rownames(sequences[i,]))
-  }
+ quality_of_seqs[i,] <- c(rownames(sequences)[i],prop.Ns)
 }
-
-# We create a subsampled dataset including only the high quality sequences
-sequences_high_qual <- sequences[list_of_high_quality_seqs,]
-
-# and we also subsample the tree so that it doesn't contain the low quality samples anymore.
-mltree_pruned <- drop.tip(mltree, mltree$tip.label[! mltree$tip.label %in% rownames(sequences_high_qual)] )
-
+hist(as.numeric(quality_of_seqs[,2]),breaks=200,xlab="Proportion of Ns in each sequence")
 ```
 
 ### Rooting the phylogenetic tree
@@ -380,7 +370,7 @@ We can therefore interpret the results of the analysis by querying elements of t
 dtr$timeOfMRCA
 ```
 
-Our analysis suggests a decimal date of 2019.965. This translates to a calender estimate of the **19th December 2019**.
+Our analysis suggests a decimal date of 2019.997. This translates to a calender estimate of the **30th December 2019**.
 
 This is a bit more recent than we might expect. Some of the earliest cases reported in China date to mid November 2019. 
 
