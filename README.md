@@ -381,6 +381,7 @@ This is a bit more recent than we might expect. Some of the earliest cases repor
 * this is only a point estimate and estimates such as these should always be presented with appropriate uncertainty.
 * phylgenetic dating analyses capture this uncertainty either through boot-strapping or by sampling sets of posterior trees (the latter is the approach used in the BEAST framework which you may have come across).
 
+![schematics](https://github.com/END-VOC/WP3_D3.2_SARS-CoV-2_NGS_bioinformatics_pipeline/blob/main/root_to_tip.png)
 
 ### Plotting a dated phylogenetic tree
 
