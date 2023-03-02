@@ -166,7 +166,7 @@ We can also ask how many positions in the alignment vary - the single nucleotide
 length(seg.sites(sequences))
 ```
 
-This tells us that 661 positions in the 29903 base pair alignment vary in at least one of the 760 included sequences. In fact in this alignment the median SNP difference between any two assemblies is **only four mutations**. Remember even today SARS-CoV-2 is a young and genetically homogenous virus.
+This tells us the number of positions in the 29903 base pair alignment vary in at least one of the included sequences. In fact in this alignment the median SNP difference between any two assemblies is **only four mutations**. Remember even today SARS-CoV-2 is a young and genetically homogenous virus.
 
 Storing the alignment like this also allows us to query any particular position. 
 
@@ -336,13 +336,14 @@ You can read more in the TreeDater paper here: https://academic.oup.com/ve/artic
 
 For bespoke tools like TreeDater learning how to apply them requires careful reading of associated documentation. TreeDater has an associated manual available here: https://cran.r-project.org/web/packages/treedater/index.html
 
-We can see from this manual that we require as input our rooted phylogenetic tree `mltree.root`, the associated dates in decimal years `date.dec.vec` and the number of SNPs informing the phylogenetic tree (we calculated this earlier) `661`. 
+We can see from this manual that we require as input our rooted phylogenetic tree `mltree.root`, the associated dates in decimal years `date.dec.vec` and the number of SNPs informing the phylogenetic tree (we calculated this earlier, but need to redo it as we've excluded sequences since then). 
 
 For simiplicity we will assume a **strict clock model**. This is a reasonable assumption for the earliest SARS-CoV-2 samples but other more complex models exist and there is now some evidence of the rate of evolution changing subtly over the course of the pandemic.
 
 We can then run TreeDater. We store the output as a variable termed `dtr`. Note this may take five minutes or so depending on your laptop:
 ```{r date_4}
-dtr <- dater(mltree.root,date.dec.vec,661,clock='strict')
+nb_SNP <- length(seg.sites(sequences_high_qual))
+dtr <- dater(mltree.root,date.dec.vec,nb_SNP,clock='strict')
 ```
 
 Before interpreting the results lets check we have meaningful temporal signal in the alignment by performing a **simple regression** of root-to-tip distances and sampling time. TreeDater handily provides a function for this which can be applied to the `dtr` object:
