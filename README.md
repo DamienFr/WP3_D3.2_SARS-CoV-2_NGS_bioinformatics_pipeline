@@ -252,10 +252,11 @@ Real sequencing datasets are often not perfect, so it's important to check if so
 Here, we chose to exclude all the genomes that display a proportion of missing sites > 20%
 
 ```
-\# We start by creating an object that will receive the identifiers of the sequences we want to keep
+# We start by creating an object that will receive the identifiers of the sequences we want to keep
 list_of_high_quality_seqs <- c()
 
-\# and we run a loop on each sequence to check whether it has >20% N (missing data) or not and if not we store its identifier
+# and we run a loop on each sequence to check whether it has >20% N (missing data) or not
+# and if not we store its identifier
 for(i in seq(nrow(sequences))) {
   # Get prop. of Ns
   #i <- 1
@@ -265,10 +266,10 @@ for(i in seq(nrow(sequences))) {
   }
 }
 
-\# We create a subsampled dataset including only the high quality sequences
+# We create a subsampled dataset including only the high quality sequences
 sequences_high_qual <- sequences[list_of_high_quality_seqs,]
 
-\# and we also subsample the tree so that it doesn't contain the low quality samples anymore.
+# and we also subsample the tree so that it doesn't contain the low quality samples anymore.
 mltree_pruned <- drop.tip(mltree, mltree$tip.label[! mltree$tip.label %in% rownames(sequences_high_qual)] )
 
 ```
