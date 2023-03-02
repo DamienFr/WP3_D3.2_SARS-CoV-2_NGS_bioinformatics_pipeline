@@ -70,26 +70,40 @@ and those of Nanopore data are in
 
 All sequences are aligned against the Wuhan-Hu-1 reference sequence (EPI_ISL_402125, available on NCBI here: https://www.ncbi.nlm.nih.gov/search/all/?term=wuhan-hu-1), the first genome assembly published from the pandemic using the multi-sequence alignment tool MAFFT implemented via the AUGUR pipeline (https://github.com/nextstrain/augur).
 
-    cat EPI_ISL_402125.fasta > ./data/total.aln
-    cat ./output_ILLUMINA_AMPLICON/variants/ivar/consensus/ivar/*.consensus.fa >> ./data/total.aln
-    cat ./output_NANOPORE_AMPLICON/*.consensus.fasta >> ./data/total.aln
+    cat ./data/EPI_ISL_402125.fasta > ./data/00.total.aln
+    cat ./output_ILLUMINA_AMPLICON/variants/ivar/consensus/ivar/*.consensus.fa >> ./data/00.total.aln
+    cat ./output_NANOPORE_AMPLICON/*.consensus.fasta >> ./data/00.total.aln
 
 
-    augur align --sequences ./data/total.aln --reference-name 'EPI_ISL_402125' --fill-gaps --output ./data/total_aligned.aln --nthreads 8
+    augur align --sequences ./data/00.total.aln --reference-name 'EPI_ISL_402125' --fill-gaps --output ./data/01.total_aligned.aln --nthreads 8
 
 The beginning and ends of alignments can often be noisy. Hence we mask the first 55 and last 100 positions of the alignment. Sites flagged as possible sequencing errors have been masked with an 'N' position. An up to date list is available at https://raw.githubusercontent.com/W-L/ProblematicSites_SARS-CoV2/master/problematic_sites_sarsCov2.vcf
 
 You can read more about potential sequencing errors in SARS-CoV-2 genomes here: https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473 These are important to be aware of as sequencing errors will appear homoplasic so may signpost to selection or recombination artefactually. 
 
-    perl -F'\t' -ane 'if( $F[6] eq "mask"){print $F[1] . "\n"}' ./data/problematic_sites_sarsCov2.vcf > ./data/problematic_sites_sarsCov2.tsv
-    python3 ./scripts/mask-alignment_v2.py --alignment ./data/total_aligned.aln --mask-from-beginning 55 --mask-from-end 100 --mask-sites ./data/problematic_sites_sarsCov2_inline.vcf  --output ./data/total_aligned.mask.aln
+    perl -F'\t' -ane 'if( $F[6] eq "mask"){print $F[1] . "\n"}' ./data/problematic_sites_sarsCov2.vcf > ./data/problematic_sites_sarsCov2_inline.vcf
+    python3 ./scripts/mask-alignment_v2.py --alignment ./data/01.total_aligned.aln --mask-from-beginning 55 --mask-from-end 100 --mask-sites ./data/problematic_sites_sarsCov2_inline.vcf --output ./data/02.total.mask.aln
 
+Excluding any sequences that display more than x Ns
+`
+perl ./scripts/Count_N_in_seq.pl -i ./data/02.total.mask.aln -o ./data/03.N_nb.tsv
+perl -F'\t' -ane 'if($F[-1] < 1500){print}' ./data/03.N_nb.tsv > ./data/03.N_nb_passed.tsv
+perl ./scripts/Extract_specific_sequences_from_fastq_or_fasta_v2.pl -c ./data/03.N_nb_passed.tsv -i ./data/02.total.mask.aln -f 0 -o ./data/04.total.N.aln -s "\t"
+`
+
+Exclude sequences that contain too many SNPs: with a mean rate of evolution of 2snp per month and our sampling spanning less than 5 months, we don't except more than 20 SNP
+
+`
+perl ./scripts/Pairwise_SNP_distance_from_fasta_v3_two_files.pl -i ./data/EPI_ISL_402125.fasta -i2 ./data/04.total.N.aln -o ./data/05.total.snp_count.csv
+perl -F',' -ane 'if($F[-1] > 20){print }' ./data/05.total.snp_count.csv > ./data/06.total.high.snp_count.csv
+perl ./scripts/Extract_specific_sequences_from_fastq_or_fasta_v2.pl -c ./data/06.total.high.snp_count.csv -i ./data/04.total.N.aln -f 1 -r -o ./data/07.total_high_qual.aln -s "," 
+`
 
 **########## 4. Build a Maximum likelihood tree ##########**
 
 Building a maximum likelihood phylogenetic tree on the masked alignment using the tree builder RaxML (https://cme.h-its.org/exelixis/web/software/raxml/) again implemented via the AUGUR pipeline.
 
-`augur tree --alignment ./data/total_aligned.mask.aln --method raxml --nthreads auto --output ./data/raxml.tree`
+`augur tree --alignment ./data/07.total_high_qual.aln --method raxml --nthreads 8 --output ./data/08.raxml.tree`
 
 
 **########## 5. Phylogenetics reconstruction using R ##########**
