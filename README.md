@@ -6,7 +6,7 @@
 # SARS-CoV-2 NGS Bioinformatics pipeline v1
 
 
-# **## Gather the raw read dataset ##**
+# **## 1. Gather the raw read dataset ##**
 
  849 SARS-CoV-2 sequencing projects generated from the 2019/11/01 to the 2020/05/12 were downloaded from the NCBI SRA raw read database.
 SRA can be searched in various ways, including (i) on a web browser at https://www.ncbi.nlm.nih.gov/sra using a query such as `("2019/11/01"[Publication Date] : 2020/05/12"[Publication Date]) AND txid2697049[Organism:noexp] NOT 00000000000[Mbases]` or using the e-utility dedicated command line tool with commands such as `elink -target sra -db taxonomy -id 2697049 | efetch -mode xml > 00.sra.xml`
@@ -16,7 +16,7 @@ Detailed scripts are not provided here because the reader should have his own da
 
 The list of genome accessions studied as well as their metadata information are provided in Table_1.
 
-**########## 2. Produce the consensus sequences of each sample ##########**
+# **## 2. Produce the consensus sequences of each sample ##**
 
 The dataset comprises sequencing data produced with both Illumina and Nanopore amplicon strategies. For its adaptability, we chose to analyse it using the nf-core/viralrecon workflow. Extensive documentation about it, including its installation procedure, usage and numerous possible outputs can be found at https://nf-co.re/viralrecon
 
@@ -59,7 +59,7 @@ Details about how to organize your input file folder architecture and specify yo
     --max_memory '30.GB' \
     --max_cpus 30
 
-**########## 3. Produce an alignment for subsequent analysis ##########**
+# **## 3. Produce an alignment for subsequent analysis ##**
 
 Locate your consensus sequences.
 In the above case, consensus sequences of the Illumina samples locate in 
@@ -102,14 +102,14 @@ We also want to exclude sequences that contain too many SNPs: with a mean rate o
 
 At this stage the dataset comprises 596 high quality sequences (from 849 !).
 
-**########## 4. Build a Maximum likelihood tree ##########**
+# **## 4. Build a Maximum likelihood tree ##**
 
 Building a maximum likelihood phylogenetic tree on the masked alignment using the tree builder RaxML (https://cme.h-its.org/exelixis/web/software/raxml/) again implemented via the AUGUR pipeline.
 
 `augur tree --alignment ./data/07.total_high_qual.aln --method raxml --nthreads 8 --output ./data/08.raxml.tree`
 
 
-**########## 5. Phylogenetics reconstruction using R ##########**
+# **## 5. Phylogenetics reconstruction using R ##**
 
 This section is a modified version of Lucy van Dorp's SARS-CoV-2 Phylogenomics Practical
 
