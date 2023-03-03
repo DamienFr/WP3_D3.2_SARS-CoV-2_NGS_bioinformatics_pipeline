@@ -240,12 +240,14 @@ At this early stage of the pandemic most samples were from Asia and Europe. Howe
 
 
 Country field is unperfect as it often contains a state (eg. USA: Connecticut )
-``` meta$Country <- sapply(strsplit(meta$Country,":"), `[`, 1) ```
+```
+meta$Country <- sapply(strsplit(meta$Country,":"), `[`, 1)
+```
 
 The metadata table doesn't contain any continent information so we will add it
-```countries_continents <- read.delim("./data/countries_continents.csv",header=T,sep=',',as.is=T)```
-
-```meta$Continent <- countries_continents$Continent[match(meta$Country,countries_continents$Country)]
+```
+countries_continents <- read.delim("./data/countries_continents.csv",header=T,sep=',',as.is=T)
+meta$Continent <- countries_continents$Continent[match(meta$Country,countries_continents$Country)]
 
 table(meta$Continent)```
 
@@ -254,16 +256,8 @@ We now attribute a color to each continent and add this information to the metad
 continent_colors <- c('pink','aquamarine','cornflowerblue','darkmagenta','brown1','darkgoldenrod')
 names(continent_colors) <- c('Africa','Asia','Europe','North America','South America','Oceania')
 
-meta$Colour <- continent_colors[meta$Continent]```
-
-
-
-
-
-
-
-
-
+meta$Colour <- continent_colors[meta$Continent]
+```
 
 
 Remember `R` can only assess the variables it reads so does not consider categories with typos or different spellings (eg. capitalised and not capitalised) as the same category. Very often in phylogenetics we have to spend some time **cleaning up metadata annotations** to allow formal comparisons of sets of sequences. This is a good example.
