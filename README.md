@@ -84,20 +84,21 @@ You can read more about potential sequencing errors in SARS-CoV-2 genomes here: 
     perl -F'\t' -ane 'if( $F[6] eq "mask"){print $F[1] . "\n"}' ./data/problematic_sites_sarsCov2.vcf > ./data/problematic_sites_sarsCov2_inline.vcf
     python3 ./scripts/mask-alignment_v2.py --alignment ./data/01.total_aligned.aln --mask-from-beginning 55 --mask-from-end 100 --mask-sites ./data/problematic_sites_sarsCov2_inline.vcf --output ./data/02.total.mask.aln
 
-Excluding any sequences that display more than x Ns
+Excluding any sequences that display more than 1500 Ns
 
     perl ./scripts/Count_N_in_seq.pl -i ./data/02.total.mask.aln -o ./data/03.N_nb.tsv
     perl -F'\t' -ane 'if($F[-1] < 1500){print}' ./data/03.N_nb.tsv > ./data/03.N_nb_passed.tsv
     perl ./scripts/Extract_specific_sequences_from_fastq_or_fasta_v2.pl -c ./data/03.N_nb_passed.tsv -i ./data/02.total.mask.aln -f 0 -o ./data/04.total.N.aln -s "\t"
 
 
-Exclude sequences that contain too many SNPs: with a mean rate of evolution of 2snp per month and our sampling spanning less than 5 months, we don't except more than 20 SNP
+Exclude sequences that contain too many SNPs: with a mean rate of evolution of 2 snp per month and our sampling spanning less than 5 months, we don't except more than 20 SNP
 
 
     perl ./scripts/Pairwise_SNP_distance_from_fasta_v3_two_files.pl -i ./data/EPI_ISL_402125.fasta -i2 ./data/04.total.N.aln -o ./data/05.total.snp_count.csv
     perl -F',' -ane 'if($F[-1] > 20){print }' ./data/05.total.snp_count.csv > ./data/06.total.high.snp_count.csv
     perl ./scripts/Extract_specific_sequences_from_fastq_or_fasta_v2.pl -c ./data/06.total.high.snp_count.csv -i ./data/04.total.N.aln -f 1 -r -o ./data/07.total_high_qual.aln -s "," 
-`
+
+At this stage the dataset comprises 596 high quality sequences (from 849 !).
 
 **########## 4. Build a Maximum likelihood tree ##########**
 
