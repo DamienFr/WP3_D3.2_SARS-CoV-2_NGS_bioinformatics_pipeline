@@ -9,7 +9,7 @@
 **########## 1. Gather the raw read dataset ##########**
 
  849 SARS-CoV-2 sequencing projects generated from the 2019/11/01 to the 2020/05/12 were downloaded from the NCBI SRA raw read database.
-SRA can be searched in various ways, including (i) on a web browser at https://www.ncbi.nlm.nih.gov/sra using a query such as "("2019/11/01"[Publication Date] : `2020/05/12"[Publication Date]) AND txid2697049[Organism:noexp] NOT 00000000000[Mbases]` or using the e-utility dedicated command line tool with commands such as `elink -target sra -db taxonomy -id 2697049 | efetch -mode xml > 00.sra.xml`
+SRA can be searched in various ways, including (i) on a web browser at https://www.ncbi.nlm.nih.gov/sra using a query such as `("2019/11/01"[Publication Date] : 2020/05/12"[Publication Date]) AND txid2697049[Organism:noexp] NOT 00000000000[Mbases]` or using the e-utility dedicated command line tool with commands such as `elink -target sra -db taxonomy -id 2697049 | efetch -mode xml > 00.sra.xml`
 
 In the same manner, downloading the actual fastq files of the dataset can be done either manualy or by using appropriate command line tools (Aspera, fasterq-dump ....
 Detailed scripts are not provided here because the reader should have its own dataset to analyse.
