@@ -424,8 +424,10 @@ Plotting a dated tree can be achieved using the function `axisPhylo()` and speci
 plot(dtr,no.mar=F,cex=0.2,show.tip.label=F)
 axisPhylo(side=1,root.time=dtr$timeOfMRCA,backward=F)
 tiplabels(pch=20,col=col.vec)
-legend("bottomright",inset=c(0,0),c('Asia','Europe','NorthAmerica','SouthAmerica','Oceania'),col=c('aquamarine','cornflowerblue','darkmagenta','brown1','darkgoldenrod'),pch=20,bty='n',cex=0.6)
+legend("topleft",inset=c(0.1,0),c('Africa','Asia','Europe','NorthAmerica','SouthAmerica','Oceania'),col=c('pink','aquamarine','cornflowerblue','darkmagenta','brown1','darkgoldenrod'),pch=20,bty='n',cex=1.2)
 ```
+
+![schematics](https://github.com/END-VOC/WP3_D3.2_SARS-CoV-2_NGS_bioinformatics_pipeline/blob/main/tree_2.png)
 
 You can now see that the tree is scaled by unit time. By looking at the x-axis we are able to estimate both the tMRCA but also the **approximate age of different nodes** on the phylogenetic tree. This can be useful for estimating the age of introduced lineages as well as the age of the appearance of particular sets of mutations. Analyses such as these suggest D614G first emerged in mid January 2019.
 
