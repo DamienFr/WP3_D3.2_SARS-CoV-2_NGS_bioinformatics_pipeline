@@ -236,6 +236,35 @@ table(meta$Country)
 At this early stage of the pandemic most samples were from Asia and Europe. However this rapidly shifted. European sequencing has typically dominated sequencing efforts. This is largely due to the COG-UK consortium (https://www.cogconsortium.uk).
 
 
+
+
+Country field is unperfect as it often contains a state (eg. USA: Connecticut )
+``` meta$Country <- sapply(strsplit(meta$Country,":"), `[`, 1) ```
+
+The metadata table doesn't contain any continent information so we will add it
+```countries_continents <- read.delim("./data/countries_continents.csv",header=T,sep=',',as.is=T)```
+
+```meta$Continent <- countries_continents$Continent[match(meta$Country,countries_continents$Country)]
+
+table(meta$Continent)```
+
+We now attribute a color to each continent and add this information to the metadata table
+```
+continent_colors <- c('pink','aquamarine','cornflowerblue','darkmagenta','brown1','darkgoldenrod')
+names(continent_colors) <- c('Africa','Asia','Europe','North America','South America','Oceania')
+
+meta$Colour <- continent_colors[meta$Continent]```
+
+
+
+
+
+
+
+
+
+
+
 Remember `R` can only assess the variables it reads so does not consider categories with typos or different spellings (eg. capitalised and not capitalised) as the same category. Very often in phylogenetics we have to spend some time **cleaning up metadata annotations** to allow formal comparisons of sets of sequences. This is a good example.
 
 ### Reading in a phylogenetic tree
@@ -305,7 +334,7 @@ plot(mltree.root,show.tip.label=FALSE)
 Trees are not very useful without annotation. We known from the metadata that five continents are represented in our dataset. Handily the metadata table has a list of colours for each continent. By matching the tip labels of the tree to the metadata using the `match()` function we can create a colour vector for all of the tips in the tree and provide this to the plot function.
 
 ```{r plot_tree_2}
-col.vec <- meta[match(mltree.root$tip.label,meta$Accession.ID),'Colour']
+col.vec <- meta$Colour[match(mltree.root$tip.label,meta$SRA_Run)]
 plot(mltree.root,show.tip.label=FALSE)
 tiplabels(pch=20,col=col.vec,frame='none')
 ```
@@ -315,6 +344,8 @@ Even at this early stage of the pandemic there is not much in the way of geograp
 * you can think of the SARS-CoV-2 population as panmictic - any sample can represent any geographic region
 * this is consistent with many introductions of the virus to many geographic regions at multiple times meaning there is no one patient zero.
 * though note this situation changed by the time of the second COVID-19 wave when restrictions on travel supporting the emergence of more local SARS-CoV-2 clusters.
+
+![schematics](https://github.com/END-VOC/WP3_D3.2_SARS-CoV-2_NGS_bioinformatics_pipeline/blob/main/tree_1.png)
 
 ### Dating a phylogenetic tree
 
