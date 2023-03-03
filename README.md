@@ -249,7 +249,8 @@ The metadata table doesn't contain any continent information so we will add it
 countries_continents <- read.delim("./data/countries_continents.csv",header=T,sep=',',as.is=T)
 meta$Continent <- countries_continents$Continent[match(meta$Country,countries_continents$Country)]
 
-table(meta$Continent)```
+table(meta$Continent)
+```
 
 We now attribute a color to each continent and add this information to the metadata table
 ```
