@@ -11,16 +11,17 @@
  849 SARS-CoV-2 sequencing projects generated from the 2019/11/01 to the 2020/05/12 were downloaded from the NCBI SRA raw read database.
 SRA can be searched in various ways, including (i) on a web browser at https://www.ncbi.nlm.nih.gov/sra using a query such as `("2019/11/01"[Publication Date] : 2020/05/12"[Publication Date]) AND txid2697049[Organism:noexp] NOT 00000000000[Mbases]` or using the e-utility dedicated command line tool with commands such as `elink -target sra -db taxonomy -id 2697049 | efetch -mode xml > 00.sra.xml`
 
-In the same manner, downloading the actual fastq files of the dataset can be done either manualy or by using appropriate command line tools (Aspera, fasterq-dump ....
-Detailed scripts are not provided here because the reader should have its own dataset to analyse.
+In the same manner, downloading the actual fastq files of the dataset can be done either manualy or by using appropriate command line tools (Aspera, fasterq-dump ...)
+Detailed scripts are not provided here because the reader should have his own dataset to analyse.
 
-the list of datasets studied as well as information about the samples is provided in Table_1.
+The list of genome accessions studied as well as their metadata information are provided in Table_1.
 
 **########## 2. Produce the consensus sequences of each sample ##########**
 
-The dataset comprises sequencing data produced with both Illumina and Nanopore amplicon strategies. For its adaptability, we chose to analyse it using the nf-core/viralrecon workflow. Extensive documentation about it, including the installation procedure, usage and the numerous possible outputs can be found at https://nf-co.re/viralrecon
+The dataset comprises sequencing data produced with both Illumina and Nanopore amplicon strategies. For its adaptability, we chose to analyse it using the nf-core/viralrecon workflow. Extensive documentation about it, including its installation procedure, usage and numerous possible outputs can be found at https://nf-co.re/viralrecon
 
 **Analysis of the Illumina based sequencing projects**
+
 Details about how to specify your input files paths in ILLUMINA_AMPLICON.samplesheet.csv are provided at https://nf-co.re/viralrecon/2.5/usage
 
     bash nextflow run nf-core/viralrecon -r 2.4.1  \
@@ -40,6 +41,7 @@ Details about how to specify your input files paths in ILLUMINA_AMPLICON.samples
 
 
 **Analysis of the Nanopore based sequencing projects**
+
 Details about how to organize your input file folder architecture and specify your input files paths in NANOPORE_AMPLICON.samplesheet.cs are provided at https://nf-co.re/viralrecon/2.5/usage
 
     bash nextflow run nf-core/viralrecon -r 2.4.1  \
@@ -60,11 +62,11 @@ Details about how to organize your input file folder architecture and specify yo
 **########## 3. Produce an alignment for subsequent analysis ##########**
 
 Locate your consensus sequences.
-In the above case, consensus sequences of the Illumina data are in 
+In the above case, consensus sequences of the Illumina samples locate in 
 
 > ./output_ILLUMINA_AMPLICON/variants/ivar/consensus/ivar/*.consensus.fa
 
-and those of Nanopore data are in 
+and those of Nanopore samples in 
 
 > ./output_NANOPORE_AMPLICON/*.consensus.fasta
 
@@ -77,21 +79,21 @@ All sequences are aligned against the Wuhan-Hu-1 reference sequence (EPI_ISL_402
 
     augur align --sequences ./data/00.total.aln --reference-name 'EPI_ISL_402125' --fill-gaps --output ./data/01.total_aligned.aln --nthreads 8
 
-The beginning and ends of alignments can often be noisy. Hence we mask the first 55 and last 100 positions of the alignment. Sites flagged as possible sequencing errors have been masked with an 'N' position. An up to date list is available at https://raw.githubusercontent.com/W-L/ProblematicSites_SARS-CoV2/master/problematic_sites_sarsCov2.vcf
+The beginning and ends of alignments can often be noisy. Hence we mask the first 55 and last 100 positions of the alignment. Sites flagged as possible sequencing errors also need to be masked. Masking consists in replacing the position with 'N'. The up to date list of sites to mask that we use is available at  https://raw.githubusercontent.com/W-L/ProblematicSites_SARS-CoV2/master/problematic_sites_sarsCov2.vcf
 
 You can read more about potential sequencing errors in SARS-CoV-2 genomes here: https://virological.org/t/issues-with-sars-cov-2-sequencing-data/473 These are important to be aware of as sequencing errors will appear homoplasic so may signpost to selection or recombination artefactually. 
 
     perl -F'\t' -ane 'if( $F[6] eq "mask"){print $F[1] . "\n"}' ./data/problematic_sites_sarsCov2.vcf > ./data/problematic_sites_sarsCov2_inline.vcf
     python3 ./scripts/mask-alignment_v2.py --alignment ./data/01.total_aligned.aln --mask-from-beginning 55 --mask-from-end 100 --mask-sites ./data/problematic_sites_sarsCov2_inline.vcf --output ./data/02.total.mask.aln
 
-Excluding any sequences that display more than 1500 Ns
+We now want to get rid of sequences that are of too low quality. We exclude any sequences that display more than 1500 Ns
 
     perl ./scripts/Count_N_in_seq.pl -i ./data/02.total.mask.aln -o ./data/03.N_nb.tsv
     perl -F'\t' -ane 'if($F[-1] < 1500){print}' ./data/03.N_nb.tsv > ./data/03.N_nb_passed.tsv
     perl ./scripts/Extract_specific_sequences_from_fastq_or_fasta_v2.pl -c ./data/03.N_nb_passed.tsv -i ./data/02.total.mask.aln -f 0 -o ./data/04.total.N.aln -s "\t"
 
 
-Exclude sequences that contain too many SNPs: with a mean rate of evolution of 2 snp per month and our sampling spanning less than 5 months, we don't except more than 20 SNP
+We also want to exclude sequences that contain too many SNPs: with a mean rate of evolution of 2 snp per month and our sampling spanning less than 5 months, we don't except more than 20 SNP
 
 
     perl ./scripts/Pairwise_SNP_distance_from_fasta_v3_two_files.pl -i ./data/EPI_ISL_402125.fasta -i2 ./data/04.total.N.aln -o ./data/05.total.snp_count.csv
@@ -124,7 +126,7 @@ By the end of the practical, you should be able to:
 * Estimate a temporal regression
 * Perform a simple tip-dating analysis
 
-The raw data used to apply these steps are available in the `./data` folder of the practical.
+The raw data used to apply these steps are available in the `./data` folder.
 
 ### Reading in a whole genome alignment
 
@@ -178,7 +180,8 @@ SARS-CoV-2 is actually large for a virus. For example the Influenza A virus geno
 We can also ask how many positions in the alignment vary - the single nucleotide polymorphisms (SNPs). We can do this using a function from adegenet `seg.sites()` which reports all variant positions. We can assess the length of this string using `length()`:
       
 ```{r inspect_dataset_4}
-length(seg.sites(sequences))
+nb_SNP <- length(seg.sites(sequences))
+nb_SNP
 ```
 
 This tells us the number of positions in the 29903 base pair alignment vary in at least one of the included sequences. In fact in this alignment the mean SNP difference between any two assemblies is **only 8 mutations**. Remember even today SARS-CoV-2 is a young and genetically homogenous virus.
@@ -238,8 +241,8 @@ At this early stage of the pandemic most samples were from Asia and Europe. Howe
 
 
 
+The "country" field of the metadata table needs to be modified as it also contain more precise information (eg. USA: Connecticut ). Although this is surprinsingly not the case here, metadata tables typically contain missplells and errors in the country names and those need to be searched for and corrected manually. Remember `R` can only assess the variables it reads so does not consider categories with typos or different spellings (eg. capitalised and not capitalised) as the same level (e.g. "USA" vs. "usa" vs. "U.S.A" vs. "United States of America" ...).
 
-Country field is unperfect as it often contains a state (eg. USA: Connecticut )
 ```
 meta$Country <- sapply(strsplit(meta$Country,":"), `[`, 1)
 ```
@@ -260,12 +263,9 @@ names(continent_colors) <- c('Africa','Asia','Europe','North America','South Ame
 meta$Colour <- continent_colors[meta$Continent]
 ```
 
-
-Remember `R` can only assess the variables it reads so does not consider categories with typos or different spellings (eg. capitalised and not capitalised) as the same category. Very often in phylogenetics we have to spend some time **cleaning up metadata annotations** to allow formal comparisons of sets of sequences. This is a good example.
-
 ### Reading in a phylogenetic tree
 
-We will next use the Ape package from R to read in a maximum likelihood (ML) phylogenetic tree over the 849 SARS-CoV-2 genome assemblies. Trees are often stored as `Newick` file types, which are strings of text which denote the tree structure (via brackets) and the branch lengths measured in substitutions per site.
+We will next use the Ape package from R to read in a maximum likelihood (ML) phylogenetic tree over the 596 SARS-CoV-2 genome assemblies. Trees are often stored as `Newick` file types, which are strings of text which denote the tree structure (via brackets) and the branch lengths measured in substitutions per site.
   
 We can do this using the function `read.tree()`:
   
@@ -279,7 +279,7 @@ This is now stored as a tree object. Lets see what it looks like:
 mltree
 ```  
 
-R efficiently stores this tree as a `phylo format` object. You can this tree has 849 tips and each tip corresponds to a genome in our dataset. We can look at the order of tips by extracting variables from this object. For example to print the first ten tip labels:
+R efficiently stores this tree as a `phylo format` object. You can see this tree has 596 tips and each tip corresponds to a genome in our dataset. We can look at the order of tips by extracting variables from this object. For example to print the first ten tip labels:
   
 ```{r query_tip_tree}
 head(mltree$tip.label)
@@ -287,8 +287,8 @@ head(mltree$tip.label)
 
 ### Excluding low-quality data
 
-Real sequencing datasets are often not perfect, so it's important to check the quality of the sequences. In this case they have been prefiltered before starting the R analysis in order to be able to create the phylogenetic tree, but this is still worth a look.
-are of very low quality and exclude them.
+Gathering dataset from distinct laboratories on public databases often yields datasets very heterogeneous in quality. It's therefore important to check the quality of the sequences. In this case they have been prefiltered before starting the R analysis in order to be able to create the phylogenetic tree, but this is still worth a look.
+
 
 ```
 # We start by creating an object that will receive the identifiers and the number of N of each sequence
@@ -327,7 +327,7 @@ Lets have a first go at plotting the tree. As we installed Ape we can use the `p
 plot(mltree.root,show.tip.label=FALSE)
 ```
 
-Trees are not very useful without annotation. We known from the metadata that five continents are represented in our dataset. Handily the metadata table has a list of colours for each continent. By matching the tip labels of the tree to the metadata using the `match()` function we can create a colour vector for all of the tips in the tree and provide this to the plot function.
+Trees are not very useful without annotation. We previously added a colour for each continent to the metadata table. By matching the tip labels of the tree to the metadata using the `match()` function we can create a colour vector for all of the tips in the tree and provide this to the plot function.
 
 ```{r plot_tree_2}
 col.vec <- meta$Colour[match(mltree.root$tip.label,meta$SRA_Run)]
@@ -367,13 +367,12 @@ You can read more in the TreeDater paper here: https://academic.oup.com/ve/artic
 
 For bespoke tools like TreeDater learning how to apply them requires careful reading of associated documentation. TreeDater has an associated manual available here: https://cran.r-project.org/web/packages/treedater/index.html
 
-We can see from this manual that we require as input our rooted phylogenetic tree `mltree.root`, the associated dates in decimal years `date.dec.vec` and the number of SNPs informing the phylogenetic tree (we calculated this earlier, but need to redo it as we've excluded sequences since then). 
+We can see from this manual that we require as input our rooted phylogenetic tree `mltree.root`, the associated dates in decimal years `date.dec.vec` and the number of SNPs informing the phylogenetic tree (calculated earlier and stored in the "nb_SNP" variable). 
 
 For simiplicity we will assume a **strict clock model**. This is a reasonable assumption for the earliest SARS-CoV-2 samples but other more complex models exist and there is now some evidence of the rate of evolution changing subtly over the course of the pandemic.
 
 We can then run TreeDater. We store the output as a variable termed `dtr`. Note this may take five minutes or so depending on your laptop:
 ```{r date_4}
-nb_SNP <- length(seg.sites(sequences_high_qual))
 dtr <- dater(mltree.root,date.dec.vec,nb_SNP,clock='strict')
 ```
 
@@ -383,13 +382,13 @@ Before interpreting the results lets check we have meaningful temporal signal in
 rootToTipRegressionPlot(dtr)
 ```
 
-Our regression has a p-value of <1e-6. 
+Our regression has a p-value of <1e-22. 
 
 The p-value of the temporal regression is highly significant. What does this mean? 
 * the regression analysis supports measurably evolution over the time-span of our dataset
 * temporal signal is often not this strong due to eg. noisy alignments, erroneous SNP calls, and (more likely) the effect of recombination and/or structural variants
 * note there is now good evidence for recombination in SARS-CoV-2 which is in line with the behaviour of other coronaviruses.
-</details>
+
 
 We can therefore interpret the results of the analysis by querying elements of the `dtr` object. The one we are most interested in is the **estimated age** of all of these genomes:
 
