@@ -213,7 +213,7 @@ We can read the metadata table into R to see where the samples come from and use
 A common data format is **t**ab **s**eperated **v**alue (.tsv) format because it can both be opened in Excel but also easily read by different programming languages in R. We can read in tab separated files using the `read.delim()` function in R: 
 
 ```{r read_meta}
-meta <- read.delim("Table_1_metadata.tsv",header=T,sep='\t',as.is=T)
+meta <- read.delim("./data/Table_1_metadata.tsv",header=T,sep='\t',as.is=T)
 ```
 
 Some explanation of the above code: 
